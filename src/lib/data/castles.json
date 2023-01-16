@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Trakoscan Castle",
+		"url": "https://trakoscan.hr/",
+		"lat": "46.2577328",
+		"long": "15.9450887"
+	},
+    {
+        "name": "Medvedgrad",
+        "url": "https://medvedgrad.eu/",
+        "lat": "45.869419",
+        "long": "15.9407103"
+    },
+    {
+        "name": "Okić castle",
+        "url": "",
+        "lat": "45.7489763",
+        "long": "15.7068096"
+    }
+]
