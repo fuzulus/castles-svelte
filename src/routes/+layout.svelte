@@ -1,9 +1,9 @@
 <script>
-    import "$lib/global.css";
-    import Icon from "$lib/components/Icon.svelte";
+	import '$lib/global.css';
+	import Icon from '$lib/components/Icon.svelte';
 </script>
 
 <div class="navbar bg-base-100">
-    <Icon/>
+	<Icon />
 </div>
-<slot></slot>
+<slot />
