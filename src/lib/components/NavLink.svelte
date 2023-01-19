@@ -1,15 +1,9 @@
 <script>
-    import {onMount} from 'svelte';
-
-    let currentPath;
-    
-    onMount(() => {
-        currentPath = window.location.pathname;
-    });
+    import {page} from '$app/stores';
 
     export let href = '';
     export let content = '';
-    export let variant = 'primary';
+    export let variant = 'neutral';
 </script>
 
-<a {href} class="btn btn-{variant}" class:btn-active={currentPath === href}>{content}</a>
+<a {href} class="link link-hover link-{variant}" class:link-primary={$page.url.pathname === href}>{content}</a>

@@ -1,6 +1,4 @@
 <script>
-	import { dataset_dev } from 'svelte/internal';
-
 	/** @type {import('./$types').PageData} */
 	export let data;
 </script>
