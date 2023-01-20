@@ -1,20 +1,6728 @@
 [
-	{
-		"name": "Trakoscan Castle",
-		"url": "https://trakoscan.hr/",
-		"lat": 46.2577328,
-		"long": 15.9450887
-	},
-    {
-        "name": "Medvedgrad",
-        "url": "https://medvedgrad.eu/",
-        "lat": 45.869419,
-        "long": 15.9407103
-    },
-    {
-        "name": "Okić castle",
-        "url": "",
-        "lat": 45.7489763,
-        "long": 15.7068096
-    }
+  {
+    "long": 16.046147,
+    "lat": 43.703428,
+    "name": "Antički grad Rider",
+    "url": ""
+  },
+  {
+    "long": 15.669254,
+    "lat": 44.010045,
+    "name": "Asseria",
+    "url": ""
+  },
+  {
+    "long": 15.94439,
+    "lat": 43.64181,
+    "name": "Bedem Oštrica",
+    "url": ""
+  },
+  {
+    "long": 18.0000843,
+    "lat": 45.4361805,
+    "name": "Bedemgrad",
+    "url": ""
+  },
+  {
+    "long": 16.1148521,
+    "lat": 46.1616086,
+    "name": "Belecgrad",
+    "url": ""
+  },
+  {
+    "long": 14.0881449,
+    "lat": 45.3777286,
+    "name": "Beli grad",
+    "url": ""
+  },
+  {
+    "long": 15.3782829,
+    "lat": 44.2324651,
+    "name": "Beretinova gradina",
+    "url": ""
+  },
+  {
+    "long": 13.7555991,
+    "lat": 44.9092096,
+    "name": "Bizantski Castrum - Brijuni",
+    "url": ""
+  },
+  {
+    "long": 14.5654678,
+    "lat": 45.2473526,
+    "name": "Bizantska utvrda - Otok sv.Marko",
+    "url": ""
+  },
+  {
+    "long": 14.9133664,
+    "lat": 44.6035882,
+    "name": "Bizantska utvrda Svetojanj",
+    "url": ""
+  },
+  {
+    "long": 14.6746167,
+    "lat": 45.1443,
+    "name": "Bizantska utvrda - Šilo",
+    "url": ""
+  },
+  {
+    "long": 15.2294648,
+    "lat": 44.3020381,
+    "name": "Bizantska utvrda - Veliki Sikavac",
+    "url": ""
+  },
+  {
+    "long": 15.267992,
+    "lat": 44.7270706,
+    "name": "Bočaj grad (Kosinjgrad)",
+    "url": ""
+  },
+  {
+    "long": 16.0047772,
+    "lat": 43.9553592,
+    "name": "Bogočin (Vilin grad)",
+    "url": ""
+  },
+  {
+    "long": 17.94801,
+    "lat": 45.2107,
+    "name": "Stari grad Petnja",
+    "url": ""
+  },
+  {
+    "long": 15.3814297,
+    "lat": 45.0535681,
+    "name": "Stari grad Plaški",
+    "url": ""
+  },
+  {
+    "long": 14.1216749,
+    "lat": 45.3015956,
+    "name": "Boljunski kaštel",
+    "url": ""
+  },
+  {
+    "long": 16.233534,
+    "lat": 43.99138,
+    "name": "Bračića utvrda",
+    "url": ""
+  },
+  {
+    "long": 18.006849,
+    "lat": 45.156048,
+    "name": "Brodska tvrđava",
+    "url": ""
+  },
+  {
+    "long": 16.7864444444444,
+    "lat": 45.6224444444444,
+    "name": "Bršljanac",
+    "url": ""
+  },
+  {
+    "long": 16.0257892,
+    "lat": 44.017994,
+    "name": "Burnum",
+    "url": ""
+  },
+  {
+    "long": 13.685725,
+    "lat": 45.3420555555556,
+    "name": "Castro Nigrignanum",
+    "url": ""
+  },
+  {
+    "long": 16.1329472222222,
+    "lat": 45.9600694444444,
+    "name": "Castrum Kuzelin",
+    "url": ""
+  },
+  {
+    "long": 13.632435,
+    "lat": 45.337081,
+    "name": "Castrum Sv. Juraj (Santi Quaranta)",
+    "url": ""
+  },
+  {
+    "long": 15.7219559,
+    "lat": 46.0602504,
+    "name": "Cesargrad",
+    "url": ""
+  },
+  {
+    "long": 15.731877,
+    "lat": 45.138284,
+    "name": "Cetin - Cetingrad",
+    "url": ""
+  },
+  {
+    "long": 15.593882,
+    "lat": 43.832456,
+    "name": "Colentum",
+    "url": ""
+  },
+  {
+    "long": 15.6663662,
+    "lat": 44.179191,
+    "name": "Cvijina gradina",
+    "url": ""
+  },
+  {
+    "long": 16.2822267,
+    "lat": 45.358954,
+    "name": "Čuntić kula",
+    "url": ""
+  },
+  {
+    "long": 14.7612235,
+    "lat": 44.9736712,
+    "name": "Frankapanski kaštel Baška",
+    "url": ""
+  },
+  {
+    "long": 16.7482292,
+    "lat": 45.4492594,
+    "name": "Stari grad Plovdiv",
+    "url": ""
+  },
+  {
+    "long": 17.76023,
+    "lat": 45.31119,
+    "name": "Stari grad Viškovci",
+    "url": ""
+  },
+  {
+    "long": 15.774217,
+    "lat": 43.75699,
+    "name": "Čorićev turanj",
+    "url": ""
+  },
+  {
+    "long": 14.0833453,
+    "lat": 45.3823865,
+    "name": "Črni grad",
+    "url": ""
+  },
+  {
+    "long": 17.575625,
+    "lat": 45.299118,
+    "name": "Dolački stari grad - Brestovac",
+    "url": ""
+  },
+  {
+    "long": 15.66928,
+    "lat": 44.943127,
+    "name": "Drežnik - Drežnik grad",
+    "url": ""
+  },
+  {
+    "long": 15.0814611111111,
+    "lat": 44.5242111111111,
+    "name": "Drvišica",
+    "url": ""
+  },
+  {
+    "long": 13.8118692,
+    "lat": 45.1269767,
+    "name": "Dvigrad",
+    "url": ""
+  },
+  {
+    "long": 15.651244,
+    "lat": 46.154889,
+    "name": "Dvor Veliki Tabor",
+    "url": ""
+  },
+  {
+    "long": 14.5326403,
+    "lat": 45.3074759,
+    "name": "Frankapanski kaštel - Bakar",
+    "url": ""
+  },
+  {
+    "long": 14.7597778,
+    "lat": 45.1622769,
+    "name": "Frankapanski kaštel - Bribir",
+    "url": ""
+  },
+  {
+    "long": 15.13321,
+    "lat": 45.28211,
+    "name": "Stari grad Vitunj",
+    "url": ""
+  },
+  {
+    "long": 17.53908,
+    "lat": 45.61916,
+    "name": "Stari grad Voćin",
+    "url": ""
+  },
+  {
+    "long": 14.6296156,
+    "lat": 45.1000859,
+    "name": "Frankapanski Kaštel Gradec (Rovoznik)",
+    "url": ""
+  },
+  {
+    "long": 14.5763919,
+    "lat": 45.025748,
+    "name": "Frankapanski Kaštel Krk",
+    "url": ""
+  },
+  {
+    "long": 14.7890434,
+    "lat": 45.1286031,
+    "name": "Frankapanski kaštel - Novi Vinodolski",
+    "url": ""
+  },
+  {
+    "long": 15.2243527,
+    "lat": 45.2676013,
+    "name": "Frankapanski kaštel Ogulin",
+    "url": ""
+  },
+  {
+    "long": 15.169238,
+    "lat": 45.42149,
+    "name": "Frankapanski kaštel Severin na Kupi",
+    "url": ""
+  },
+  {
+    "long": 14.6758676,
+    "lat": 45.0774925,
+    "name": "Frankapanski kaštel Vrbnik (Zidine i kula)",
+    "url": ""
+  },
+  {
+    "long": 16.4419675,
+    "lat": 43.1748905,
+    "name": "Fortica (Španjola) - Hvar",
+    "url": ""
+  },
+  {
+    "long": 15.0745994,
+    "lat": 44.5254602,
+    "name": "Fortica - Karlobag",
+    "url": ""
+  },
+  {
+    "long": 15.2340459,
+    "lat": 44.8728342,
+    "name": "Fortica Otočac",
+    "url": ""
+  },
+  {
+    "long": 15.2553803,
+    "lat": 44.323046,
+    "name": "Fortica - Pag",
+    "url": ""
+  },
+  {
+    "long": 14.5533121,
+    "lat": 45.2068924,
+    "name": "Fortičina Omišalj",
+    "url": ""
+  },
+  {
+    "long": 16.756806,
+    "lat": 45.631288,
+    "name": "Garićgrad",
+    "url": ""
+  },
+  {
+    "long": 16.1931489,
+    "lat": 43.0571976,
+    "name": "Gospina tvrđava - Vis",
+    "url": ""
+  },
+  {
+    "long": 16.1023388888889,
+    "lat": 45.9313472222222,
+    "name": "Gradec - Planina Donja",
+    "url": ""
+  },
+  {
+    "long": 14.1216361111111,
+    "lat": 45.3460388888889,
+    "name": "Kaštel Mahrenfels",
+    "url": ""
+  },
+  {
+    "long": 14.6996132,
+    "lat": 45.192865,
+    "name": "Gradina Badanj",
+    "url": ""
+  },
+  {
+    "long": 16.3534498,
+    "lat": 43.5791162,
+    "name": "Gradina Biranj",
+    "url": ""
+  },
+  {
+    "long": 15.5955219,
+    "lat": 44.207973,
+    "name": "Gradina Bojnik",
+    "url": ""
+  },
+  {
+    "long": 13.77141,
+    "lat": 44.913232,
+    "name": "Gradina - Brijuni",
+    "url": ""
+  },
+  {
+    "long": 14.8033611111111,
+    "lat": 44.9866083333333,
+    "name": "Gradina Corinthia",
+    "url": ""
+  },
+  {
+    "long": 15.5511962,
+    "lat": 44.2364218,
+    "name": "Gradina Dračevac",
+    "url": ""
+  },
+  {
+    "long": 16.1556771,
+    "lat": 43.8554073,
+    "name": "Gradina Drniš",
+    "url": ""
+  },
+  {
+    "long": 17.2565178,
+    "lat": 45.2490746,
+    "name": "Gradina Gornji Bogićevci (castrum s. Johannis?)",
+    "url": ""
+  },
+  {
+    "long": 14.0617844,
+    "lat": 45.3659897,
+    "name": "Gradina Gradec",
+    "url": ""
+  },
+  {
+    "long": 14.7181928,
+    "lat": 45.2048477,
+    "name": "Kaštel Grižane",
+    "url": ""
+  },
+  {
+    "long": 15.941046,
+    "lat": 45.869553,
+    "name": "Medvedgrad",
+    "url": "https://medvedgrad.eu/"
+  },
+  {
+    "long": 14.6022731,
+    "lat": 45.2744353,
+    "name": "Gradina Hreljin",
+    "url": ""
+  },
+  {
+    "long": 17.5704378,
+    "lat": 42.9542474,
+    "name": "Gradina iznad Kleka",
+    "url": ""
+  },
+  {
+    "long": 13.9438833333334,
+    "lat": 45.4476972222222,
+    "name": "Gradina Jačemica",
+    "url": ""
+  },
+  {
+    "long": 15.7318572,
+    "lat": 44.02883,
+    "name": "Gradina Jarebinjak",
+    "url": ""
+  },
+  {
+    "long": 14.9144554,
+    "lat": 44.9901162,
+    "name": "Gradina Kuk (Senia)",
+    "url": ""
+  },
+  {
+    "long": 16.7209444444445,
+    "lat": 45.5744722222222,
+    "name": "Gradina Marić",
+    "url": ""
+  },
+  {
+    "long": 15.5334449,
+    "lat": 44.2607989,
+    "name": "Gradina Modrič",
+    "url": ""
+  },
+  {
+    "long": 13.6981,
+    "lat": 45.0706,
+    "name": "Gradina Monkodonja",
+    "url": ""
+  },
+  {
+    "long": 15.5090797,
+    "lat": 44.0719007,
+    "name": "Gradina Nadin",
+    "url": ""
+  },
+  {
+    "long": 13.9688929,
+    "lat": 44.9165662,
+    "name": "Gradina Nezakcij",
+    "url": ""
+  },
+  {
+    "long": 16.1897278,
+    "lat": 44.0383677,
+    "name": "Gradina Ninia",
+    "url": ""
+  },
+  {
+    "long": 17.2836051,
+    "lat": 45.5351052,
+    "name": "Gradina Piljenica",
+    "url": ""
+  },
+  {
+    "long": 14.407224,
+    "lat": 44.597463,
+    "name": "Gradina Polanža",
+    "url": ""
+  },
+  {
+    "long": 14.9693442,
+    "lat": 44.6005517,
+    "name": "Gradina Prizna",
+    "url": ""
+  },
+  {
+    "long": 15.5042088,
+    "lat": 45.3421241,
+    "name": "Gradina Skrad (Stari grad Skrad)",
+    "url": ""
+  },
+  {
+    "long": 13.9078025,
+    "lat": 45.4230799,
+    "name": "Gradina sv. Juraj",
+    "url": ""
+  },
+  {
+    "long": 14.9182642,
+    "lat": 44.9274642,
+    "name": "Gradina Sveti Juraj",
+    "url": ""
+  },
+  {
+    "long": 13.9963593,
+    "lat": 45.4075394,
+    "name": "Gradina sv. Križ",
+    "url": ""
+  },
+  {
+    "long": 13.7386394,
+    "lat": 44.9379495,
+    "name": "Gradina Sv. Nikole - Mali Brijun",
+    "url": ""
+  },
+  {
+    "long": 17.0121655,
+    "lat": 43.2935966,
+    "name": "Gradina Sveti Petar (uvtrda antičkog grada Muccuruma)",
+    "url": ""
+  },
+  {
+    "long": 14.4955158,
+    "lat": 45.3178671,
+    "name": "Gradina Solin",
+    "url": ""
+  },
+  {
+    "long": 14.5242832,
+    "lat": 45.3068138,
+    "name": "Gradina Sopalj",
+    "url": ""
+  },
+  {
+    "long": 16.2226894,
+    "lat": 43.5296549,
+    "name": "Gradina - Seget Gornji",
+    "url": ""
+  },
+  {
+    "long": 14.0307583333333,
+    "lat": 45.0028833333333,
+    "name": "Gradina Šiljar",
+    "url": ""
+  },
+  {
+    "long": 16.696786,
+    "lat": 43.1483739,
+    "name": "Gradina Tor",
+    "url": ""
+  },
+  {
+    "long": 15.5072372,
+    "lat": 43.9857607,
+    "name": "Gradina Trojan",
+    "url": ""
+  },
+  {
+    "long": 16.7851889,
+    "lat": 45.487185,
+    "name": "Gradina Turski stol",
+    "url": ""
+  },
+  {
+    "long": 15.677987,
+    "lat": 43.635603,
+    "name": "Gradina Žirje",
+    "url": ""
+  },
+  {
+    "long": 16.1058027777777,
+    "lat": 45.9267611111111,
+    "name": "Gradišće - Planina Donja/Kašina",
+    "url": ""
+  },
+  {
+    "long": 16.21208,
+    "lat": 46.22147,
+    "name": "Gradišće kod Margečana - Cukovec",
+    "url": ""
+  },
+  {
+    "long": 15.9729838,
+    "lat": 45.8145876,
+    "name": "Gradski bedemi - Grič",
+    "url": ""
+  },
+  {
+    "long": 14.5756495,
+    "lat": 45.0285523,
+    "name": "Gradski bedemi - Krk",
+    "url": ""
+  },
+  {
+    "long": 14.5769128,
+    "lat": 45.0262035,
+    "name": "Gradski bedemi - Krk",
+    "url": ""
+  },
+  {
+    "long": 13.5599372,
+    "lat": 45.3147795,
+    "name": "Gradski bedemi - Novigrad",
+    "url": ""
+  },
+  {
+    "long": 13.6302003,
+    "lat": 45.0824453,
+    "name": "Gradski bedemi - Rovinj",
+    "url": ""
+  },
+  {
+    "long": 13.5951519,
+    "lat": 45.2280348,
+    "name": "Gradski bedemi i Sjeverna kula - Poreč",
+    "url": ""
+  },
+  {
+    "long": 16.2832618,
+    "lat": 46.1751829,
+    "name": "Grebengrad",
+    "url": ""
+  },
+  {
+    "long": 15.1084542,
+    "lat": 44.9398178,
+    "name": "Gusić-grad",
+    "url": ""
+  },
+  {
+    "long": 19.3734131,
+    "lat": 45.2240747,
+    "name": "Iločka tvrđava",
+    "url": ""
+  },
+  {
+    "long": 16.683127,
+    "lat": 45.64259,
+    "name": "Jelengrad",
+    "url": ""
+  },
+  {
+    "long": 15.86584,
+    "lat": 46.16523,
+    "name": "Josipovec",
+    "url": ""
+  },
+  {
+    "long": 15.9752369,
+    "lat": 45.8157298,
+    "name": "Kamenita vrata",
+    "url": ""
+  },
+  {
+    "long": 17.564119,
+    "lat": 45.502737,
+    "name": "Kamengrad",
+    "url": ""
+  },
+  {
+    "long": 16.1907899,
+    "lat": 44.0389095,
+    "name": "Kasnoantičko i bizantsko utvrđenje",
+    "url": ""
+  },
+  {
+    "long": 15.3030109,
+    "lat": 44.8081931,
+    "name": "Karingrad",
+    "url": ""
+  },
+  {
+    "long": 15.5533576,
+    "lat": 45.4930967,
+    "name": "Karlovačka Zvijezda",
+    "url": ""
+  },
+  {
+    "long": 14.2255583333333,
+    "lat": 45.4905694444444,
+    "name": "Gradina iznad Pasjaka",
+    "url": ""
+  },
+  {
+    "long": 15.6103185,
+    "lat": 44.0338785,
+    "name": "Kaštel Benković",
+    "url": ""
+  },
+  {
+    "long": 16.1238417,
+    "lat": 45.9426944,
+    "name": "Kaštel Blaguša",
+    "url": ""
+  },
+  {
+    "long": 13.7742972222222,
+    "lat": 45.3734555555556,
+    "name": "Kaštel Contarini (Završje)",
+    "url": ""
+  },
+  {
+    "long": 16.170255,
+    "lat": 46.163315,
+    "name": "Milengrad",
+    "url": ""
+  },
+  {
+    "long": 16.6428833,
+    "lat": 45.5748499,
+    "name": "Moslavinagrad",
+    "url": ""
+  },
+  {
+    "long": 17.6798022,
+    "lat": 45.3327801,
+    "name": "Stari grad Požega",
+    "url": ""
+  },
+  {
+    "long": 14.646785,
+    "lat": 45.23797,
+    "name": "Kaštel Drivenik",
+    "url": ""
+  },
+  {
+    "long": 15.817407,
+    "lat": 45.774436,
+    "name": "Kaštel Erdody - Kerestinec",
+    "url": ""
+  },
+  {
+    "long": 15.646838,
+    "lat": 45.671599,
+    "name": "Kaštel Erdödy - Jastrebarsko",
+    "url": ""
+  },
+  {
+    "long": 16.1581416666667,
+    "lat": 45.9384527777778,
+    "name": "Kaštel Glavnica/Moravče? - Moravče",
+    "url": ""
+  },
+  {
+    "long": 14.3736527777778,
+    "lat": 45.4468555555556,
+    "name": "Kaštel Gradina Klana",
+    "url": ""
+  },
+  {
+    "long": 14.0788277777777,
+    "lat": 45.2584472222222,
+    "name": "Kaštel Gradinje",
+    "url": ""
+  },
+  {
+    "long": 13.8822152,
+    "lat": 45.0881616,
+    "name": "Kaštel Grimani",
+    "url": ""
+  },
+  {
+    "long": 14.4610012,
+    "lat": 45.3714096,
+    "name": "Kaštel Grobnik",
+    "url": ""
+  },
+  {
+    "long": 14.0503367,
+    "lat": 45.3485667,
+    "name": "Kaštel Hum",
+    "url": ""
+  },
+  {
+    "long": 16.7714936,
+    "lat": 45.9866528,
+    "name": "Kaštel Konjskih - Domankuš",
+    "url": ""
+  },
+  {
+    "long": 16.17276,
+    "lat": 46.0548041,
+    "name": "Kaštel Konjščina",
+    "url": ""
+  },
+  {
+    "long": 17.0462617,
+    "lat": 43.291414,
+    "name": "Kaštel  Kotišina",
+    "url": ""
+  },
+  {
+    "long": 14.1925222222222,
+    "lat": 45.1945055555556,
+    "name": "Kaštel Kožljak",
+    "url": ""
+  },
+  {
+    "long": 14.1373039,
+    "lat": 45.1711914,
+    "name": "Kaštel Kršan",
+    "url": ""
+  },
+  {
+    "long": 15.5495864,
+    "lat": 43.9557073,
+    "name": "Stari grad Vrana",
+    "url": ""
+  },
+  {
+    "long": 13.707535,
+    "lat": 45.440837,
+    "name": "Kaštel Momjan",
+    "url": ""
+  },
+  {
+    "long": 13.8088027777778,
+    "lat": 45.1254361111111,
+    "name": "Kaštel Parentin",
+    "url": ""
+  },
+  {
+    "long": 14.6457464,
+    "lat": 45.5966632,
+    "name": "Kaštel Petra Zrinskog - Čabar",
+    "url": ""
+  },
+  {
+    "long": 13.8994807,
+    "lat": 45.4056365,
+    "name": "Kaštel Pietrapelosa",
+    "url": ""
+  },
+  {
+    "long": 17.4200249,
+    "lat": 45.3628317,
+    "name": "Kaštel Podvršje",
+    "url": ""
+  },
+  {
+    "long": 16.4384658,
+    "lat": 45.2648562,
+    "name": "Kaštel Prevršac",
+    "url": ""
+  },
+  {
+    "long": 14.047973,
+    "lat": 45.392214,
+    "name": "Kaštel Roč",
+    "url": ""
+  },
+  {
+    "long": 16.3858156,
+    "lat": 45.4706163,
+    "name": "Kaštel  Sisak",
+    "url": ""
+  },
+  {
+    "long": 15.862933,
+    "lat": 43.864692,
+    "name": "Kaštel Sonković",
+    "url": ""
+  },
+  {
+    "long": 14.1033071,
+    "lat": 45.2739163,
+    "name": "Kaštel Šabec (Posrt)",
+    "url": ""
+  },
+  {
+    "long": 14.0720305555556,
+    "lat": 45.1722777777778,
+    "name": "Kastel Šumber",
+    "url": ""
+  },
+  {
+    "long": 14.2787611111112,
+    "lat": 45.3376527777778,
+    "name": "Kaštel Veprinac",
+    "url": ""
+  },
+  {
+    "long": 14.1584055555555,
+    "lat": 45.314125,
+    "name": "Kaštel Vranja",
+    "url": ""
+  },
+  {
+    "long": 16.4166802,
+    "lat": 45.88431,
+    "name": "Kaštel Vrbovec (Kula Petra Zrinskog)",
+    "url": ""
+  },
+  {
+    "long": 16.0995987,
+    "lat": 45.8932944,
+    "name": "Kaštel Vugra - Vugrovec Gornji",
+    "url": ""
+  },
+  {
+    "long": 14.8534244,
+    "lat": 45.4633702,
+    "name": "Kaštel Zrinskih - Brod na Kupi",
+    "url": ""
+  },
+  {
+    "long": 16.0466453,
+    "lat": 44.0965776,
+    "name": "Kegaljgrad",
+    "url": ""
+  },
+  {
+    "long": 16.0516155,
+    "lat": 44.1888088,
+    "name": "Rakovnik",
+    "url": ""
+  },
+  {
+    "long": 17.6536001,
+    "lat": 45.4709835,
+    "name": "Stari grad Velika",
+    "url": ""
+  },
+  {
+    "long": 16.1344743,
+    "lat": 46.3383833,
+    "name": "Stari grada Vinica",
+    "url": ""
+  },
+  {
+    "long": 16.1778495,
+    "lat": 45.9838374,
+    "name": "Kladešćica",
+    "url": ""
+  },
+  {
+    "long": 16.1934,
+    "lat": 44.034224,
+    "name": "Kninska tvrđava",
+    "url": ""
+  },
+  {
+    "long": 18.61237,
+    "lat": 45.48858,
+    "name": "Korogyvar - Stari grad Korođ",
+    "url": ""
+  },
+  {
+    "long": 15.7446849,
+    "lat": 46.1851138,
+    "name": "Kostelgrad",
+    "url": ""
+  },
+  {
+    "long": 15.6145844,
+    "lat": 44.8772059,
+    "name": "Krčingrad (Pliš, Krčin)",
+    "url": ""
+  },
+  {
+    "long": 17.3666328,
+    "lat": 43.2060106,
+    "name": "Kula Avala",
+    "url": ""
+  },
+  {
+    "long": 15.893126,
+    "lat": 43.734146,
+    "name": "Kula Bernardi - Šibenik",
+    "url": ""
+  },
+  {
+    "long": 15.7321215,
+    "lat": 44.0383716,
+    "name": "Kula Brgud",
+    "url": ""
+  },
+  {
+    "long": 15.680164,
+    "lat": 43.924455,
+    "name": "Kula Budak",
+    "url": ""
+  },
+  {
+    "long": 17.3685828,
+    "lat": 43.2043762,
+    "name": "Kula Dizdarevića (Kapetanovića)",
+    "url": ""
+  },
+  {
+    "long": 15.672383,
+    "lat": 43.872318,
+    "name": "Kula Kašić",
+    "url": ""
+  },
+  {
+    "long": 15.695628,
+    "lat": 43.989501,
+    "name": "Kula Lepur",
+    "url": ""
+  },
+  {
+    "long": 15.9732754,
+    "lat": 45.8146243,
+    "name": "Kula Lotrščak - Zagreb",
+    "url": ""
+  },
+  {
+    "long": 16.112391,
+    "lat": 43.512765,
+    "name": "Kula Marina",
+    "url": ""
+  },
+  {
+    "long": 17.60699,
+    "lat": 43.0282585,
+    "name": "Kula Norinska",
+    "url": ""
+  },
+  {
+    "long": 15.619791,
+    "lat": 43.880985,
+    "name": "Kula Osridak",
+    "url": ""
+  },
+  {
+    "long": 15.694859,
+    "lat": 44.051613,
+    "name": "Kula Otavac",
+    "url": ""
+  },
+  {
+    "long": 17.3068759,
+    "lat": 43.1280814,
+    "name": "Kula Podaca",
+    "url": ""
+  },
+  {
+    "long": 16.246678,
+    "lat": 43.516334,
+    "name": "Kula sv. Marka",
+    "url": ""
+  },
+  {
+    "long": 15.875737,
+    "lat": 43.978574,
+    "name": "Kula Zečevo",
+    "url": ""
+  },
+  {
+    "long": 16.7766944444445,
+    "lat": 45.6035277777778,
+    "name": "Kutinec grad",
+    "url": ""
+  },
+  {
+    "long": 15.5317068,
+    "lat": 44.0514778,
+    "name": "Kutlovića gradina",
+    "url": ""
+  },
+  {
+    "long": 16.0496,
+    "lat": 46.21144,
+    "name": "Lepoglava",
+    "url": ""
+  },
+  {
+    "long": 16.064629,
+    "lat": 46.1786399,
+    "name": "Pusti Lobor",
+    "url": ""
+  },
+  {
+    "long": 15.881359,
+    "lat": 43.728156,
+    "name": "Mala (istočna) kula",
+    "url": ""
+  },
+  {
+    "long": 15.6740569,
+    "lat": 46.2114867,
+    "name": "Mali Tabor",
+    "url": ""
+  },
+  {
+    "long": 15.5490071,
+    "lat": 43.9542116,
+    "name": "Maškovića han Vrana",
+    "url": ""
+  },
+  {
+    "long": 16.3674059,
+    "lat": 45.2997052,
+    "name": "Utvrda Komogovina",
+    "url": ""
+  },
+  {
+    "long": 13.8278605,
+    "lat": 45.3359506,
+    "name": "Motovun",
+    "url": ""
+  },
+  {
+    "long": 14.9160862,
+    "lat": 44.9297316,
+    "name": "Naselje-utvrđenje na Liscu",
+    "url": ""
+  },
+  {
+    "long": 16.0309356,
+    "lat": 43.9771823,
+    "name": "Nečven grad",
+    "url": ""
+  },
+  {
+    "long": 15.442357,
+    "lat": 45.747645,
+    "name": "Novi grad Žumberak",
+    "url": ""
+  },
+  {
+    "long": 13.6517361111112,
+    "lat": 45.4159555555556,
+    "name": "Obrambene zidine Sv. Andrija",
+    "url": ""
+  },
+  {
+    "long": 15.7068096,
+    "lat": 45.7489763,
+    "name": "Okić - grad",
+    "url": ""
+  },
+  {
+    "long": 13.5941284,
+    "lat": 45.2270141,
+    "name": "Okrugla kula -  Poreč",
+    "url": ""
+  },
+  {
+    "long": 16.959393,
+    "lat": 45.3424635,
+    "name": "Orešić grad",
+    "url": ""
+  },
+  {
+    "long": 15.65028,
+    "lat": 45.21722,
+    "name": "Otmić grad",
+    "url": ""
+  },
+  {
+    "long": 13.9306416,
+    "lat": 45.240332,
+    "name": "Pazinski Kaštel",
+    "url": ""
+  },
+  {
+    "long": 13.5931503,
+    "lat": 45.2279181,
+    "name": "Peterokutna kula - Poreč",
+    "url": ""
+  },
+  {
+    "long": 17.79772,
+    "lat": 45.2889,
+    "name": "Utvrda Pleternica",
+    "url": ""
+  },
+  {
+    "long": 15.9750129,
+    "lat": 45.8189607,
+    "name": "Popov toranj",
+    "url": ""
+  },
+  {
+    "long": 13.8455182,
+    "lat": 44.8702128,
+    "name": "Pulski Kaštel",
+    "url": ""
+  },
+  {
+    "long": 15.4458144,
+    "lat": 43.8994676,
+    "name": "Pustograd",
+    "url": ""
+  },
+  {
+    "long": 16.08411,
+    "lat": 46.16651,
+    "name": "Stari grad Oštrc",
+    "url": ""
+  },
+  {
+    "long": 15.2795362,
+    "lat": 44.6265495,
+    "name": "Stari grad Oteš",
+    "url": ""
+  },
+  {
+    "long": 15.974165,
+    "lat": 43.879227,
+    "name": "Rogovo (Babin grad)",
+    "url": ""
+  },
+  {
+    "long": 17.85821,
+    "lat": 45.511109,
+    "name": "Ružica grad",
+    "url": ""
+  },
+  {
+    "long": 18.698078,
+    "lat": 45.5616177,
+    "name": "Osijek Tvrđa",
+    "url": ""
+  },
+  {
+    "long": 16.482916,
+    "lat": 43.539276,
+    "name": "Salona",
+    "url": ""
+  },
+  {
+    "long": 15.922258,
+    "lat": 43.817789,
+    "name": "Scardona (Skradin)",
+    "url": ""
+  },
+  {
+    "long": 18.06306,
+    "lat": 45.26419,
+    "name": "Schloss Kula",
+    "url": ""
+  },
+  {
+    "long": 17.5662539,
+    "lat": 42.9506509,
+    "name": "Smrdan grad",
+    "url": ""
+  },
+  {
+    "long": 15.544395,
+    "lat": 45.3789068,
+    "name": "Stari grad Barilović",
+    "url": ""
+  },
+  {
+    "long": 16.25666,
+    "lat": 46.20118,
+    "name": "Stari grad Bela (Pusta Bela)",
+    "url": ""
+  },
+  {
+    "long": 15.4330444,
+    "lat": 44.5196237,
+    "name": "Stari grad Bilaj",
+    "url": ""
+  },
+  {
+    "long": 16.2934434,
+    "lat": 46.0448525,
+    "name": "Stari grad Bisag",
+    "url": ""
+  },
+  {
+    "long": 16.35287,
+    "lat": 45.34948,
+    "name": "Stari grad Blinja (Castrum Wiwar)",
+    "url": ""
+  },
+  {
+    "long": 15.283939,
+    "lat": 45.40797,
+    "name": "Stari grad Bosiljevo",
+    "url": ""
+  },
+  {
+    "long": 15.843653,
+    "lat": 43.924972,
+    "name": "Stari grad Bribir (Varvaria)",
+    "url": ""
+  },
+  {
+    "long": 15.4704443,
+    "lat": 45.6141472,
+    "name": "Stari grad Ozalj",
+    "url": ""
+  },
+  {
+    "long": 16.29426,
+    "lat": 45.14403,
+    "name": "Stari grad Pedalj",
+    "url": ""
+  },
+  {
+    "long": 13.9703554,
+    "lat": 45.4071806,
+    "name": "Stari grad Buzet (Pinquentum)",
+    "url": ""
+  },
+  {
+    "long": 17.3799983,
+    "lat": 45.2833078,
+    "name": "Stari grad Cernik",
+    "url": ""
+  },
+  {
+    "long": 17.31983,
+    "lat": 45.60668,
+    "name": "Stari grad Dobra Kuća",
+    "url": ""
+  },
+  {
+    "long": 15.9701,
+    "lat": 45.97738,
+    "name": "Stari grad Donja Stubica",
+    "url": ""
+  },
+  {
+    "long": 15.528008,
+    "lat": 45.495004,
+    "name": "Stari grad Dubovac",
+    "url": ""
+  },
+  {
+    "long": 17.0685886,
+    "lat": 46.0452289,
+    "name": "Stari grad Đurđevac",
+    "url": ""
+  },
+  {
+    "long": 19.0640071,
+    "lat": 45.5267481,
+    "name": "Stari grad Erdut",
+    "url": ""
+  },
+  {
+    "long": 16.6994119,
+    "lat": 43.4444172,
+    "name": "Starigrad Fortica - Omiš",
+    "url": ""
+  },
+  {
+    "long": 18.18354,
+    "lat": 45.22909,
+    "name": "Stari grad Gardun",
+    "url": ""
+  },
+  {
+    "long": 16.33511,
+    "lat": 45.16104,
+    "name": "Stari grad Gorička",
+    "url": ""
+  },
+  {
+    "long": 17.59249,
+    "lat": 45.28444,
+    "name": "Stari grad Gornja Vrbova",
+    "url": ""
+  },
+  {
+    "long": 18.36592,
+    "lat": 45.40461,
+    "name": "Stari grad Gorjani",
+    "url": ""
+  },
+  {
+    "long": 16.27348,
+    "lat": 45.40174,
+    "name": "Stari grad Hrastovica",
+    "url": ""
+  },
+  {
+    "long": 16.1251912,
+    "lat": 46.2237772,
+    "name": "Stari grad Ivanec",
+    "url": ""
+  },
+  {
+    "long": 14.8964095,
+    "lat": 44.7054911,
+    "name": "Stari grad Jablanac",
+    "url": ""
+  },
+  {
+    "long": 16.4638392,
+    "lat": 46.1332227,
+    "name": "Stari grad Kalnik",
+    "url": ""
+  },
+  {
+    "long": 16.03384,
+    "lat": 46.24676,
+    "name": "Stari grad Kamenica",
+    "url": ""
+  },
+  {
+    "long": 17.72392,
+    "lat": 45.43377,
+    "name": "Stari grad Kaptol",
+    "url": ""
+  },
+  {
+    "long": 15.626098,
+    "lat": 44.111539,
+    "name": "Stari grad Karin",
+    "url": ""
+  },
+  {
+    "long": 17.33751,
+    "lat": 45.62549,
+    "name": "Stari grad Klak - Drenovačka utvrda",
+    "url": ""
+  },
+  {
+    "long": 15.6839168,
+    "lat": 45.2160891,
+    "name": "Stari grad Klokoč",
+    "url": ""
+  },
+  {
+    "long": 16.0306755,
+    "lat": 43.8312414,
+    "name": "Stari grad Ključica",
+    "url": ""
+  },
+  {
+    "long": 15.37389,
+    "lat": 44.64587,
+    "name": "Stari grad Perušić",
+    "url": ""
+  },
+  {
+    "long": 18.51204,
+    "lat": 45.08552,
+    "name": "Stari grad Kostroman",
+    "url": ""
+  },
+  {
+    "long": 16.65244,
+    "lat": 45.66201,
+    "name": "Stari grad Košut - Košutgrad",
+    "url": ""
+  },
+  {
+    "long": 16.8268916,
+    "lat": 45.3940665,
+    "name": "Stari grad Kraljeva Velika (Kućište)",
+    "url": ""
+  },
+  {
+    "long": 15.8689648,
+    "lat": 46.1665088,
+    "name": "Stari Grad Krapina",
+    "url": ""
+  },
+  {
+    "long": 15.63084,
+    "lat": 45.11666,
+    "name": "Stari grad Kremen",
+    "url": ""
+  },
+  {
+    "long": 15.724346,
+    "lat": 45.24442,
+    "name": "Stari grad Krstinja",
+    "url": ""
+  },
+  {
+    "long": 15.7258666,
+    "lat": 44.4922579,
+    "name": "Stari grad Kurjak",
+    "url": ""
+  },
+  {
+    "long": 15.9608602,
+    "lat": 44.5361181,
+    "name": "Stari grad Lapac",
+    "url": ""
+  },
+  {
+    "long": 14.8360652,
+    "lat": 45.1300034,
+    "name": "Stari grad Ledenice",
+    "url": ""
+  },
+  {
+    "long": 15.6274588,
+    "lat": 45.7575672,
+    "name": "Stari grad Lipovec",
+    "url": ""
+  },
+  {
+    "long": 16.0004946,
+    "lat": 45.7018861,
+    "name": "Stari grad Lukavec",
+    "url": ""
+  },
+  {
+    "long": 15.283115,
+    "lat": 44.278851,
+    "name": "Stari grad Ljubač",
+    "url": ""
+  },
+  {
+    "long": 16.4128833,
+    "lat": 46.1226375,
+    "name": "Stari grad Mali Kalnik",
+    "url": ""
+  },
+  {
+    "long": 16.9221222,
+    "lat": 45.467977,
+    "name": "Stari grad Međurić",
+    "url": ""
+  },
+  {
+    "long": 15.68,
+    "lat": 44.751,
+    "name": "Stari grad Mrsinj",
+    "url": ""
+  },
+  {
+    "long": 18.187,
+    "lat": 45.31426,
+    "name": "Stari Grad Nevna - Levanjska Varoš",
+    "url": ""
+  },
+  {
+    "long": 15.3399503,
+    "lat": 44.5167664,
+    "name": "Stari grad Novi u Lici (Novum castrum)",
+    "url": ""
+  },
+  {
+    "long": 15.452978,
+    "lat": 45.482423,
+    "name": "Stari grad Novigrad na Dobri",
+    "url": ""
+  },
+  {
+    "long": 15.7272795,
+    "lat": 44.2050224,
+    "name": "Stari grad Obrovac",
+    "url": ""
+  },
+  {
+    "long": 15.2246475,
+    "lat": 44.652841,
+    "name": "Stari grad Ostrvica u Lici",
+    "url": ""
+  },
+  {
+    "long": 14.0706753,
+    "lat": 44.9783769,
+    "name": "Stari grad Rakalj",
+    "url": ""
+  },
+  {
+    "long": 15.350285,
+    "lat": 45.577135,
+    "name": "Stari grad Ribnik",
+    "url": ""
+  },
+  {
+    "long": 15.698097,
+    "lat": 45.79892,
+    "name": "Stari grad Samobor",
+    "url": ""
+  },
+  {
+    "long": 16.6319489,
+    "lat": 43.7021488,
+    "name": "Stari grad Sinj",
+    "url": ""
+  },
+  {
+    "long": 17.2583789,
+    "lat": 45.5282345,
+    "name": "Stari grad Sirač",
+    "url": ""
+  },
+  {
+    "long": 15.5375255,
+    "lat": 45.7010341,
+    "name": "Stari grad Slavetić",
+    "url": ""
+  },
+  {
+    "long": 15.588141,
+    "lat": 45.117396,
+    "name": "Stari grad Slunj",
+    "url": ""
+  },
+  {
+    "long": 15.76046,
+    "lat": 45.42835,
+    "name": "Stari grad Steničnjak - Roknić-gradina",
+    "url": ""
+  },
+  {
+    "long": 17.6168571,
+    "lat": 45.4732805,
+    "name": "Stari grad Stražeman",
+    "url": ""
+  },
+  {
+    "long": 17.33751,
+    "lat": 45.62549,
+    "name": "Stari grad Stupčanica",
+    "url": ""
+  },
+  {
+    "long": 17.3099357,
+    "lat": 45.3229485,
+    "name": "Stari grad Šag",
+    "url": ""
+  },
+  {
+    "long": 16.285175,
+    "lat": 46.4957043,
+    "name": "Stari grad Štrigova",
+    "url": ""
+  },
+  {
+    "long": 15.562548,
+    "lat": 45.823208,
+    "name": "Stari grad Tušččak",
+    "url": ""
+  },
+  {
+    "long": 18.4154047,
+    "lat": 45.6593858,
+    "name": "Stari grad Valpovo",
+    "url": ""
+  },
+  {
+    "long": 16.3342196,
+    "lat": 46.3101279,
+    "name": "Stari grad Varaždin",
+    "url": ""
+  },
+  {
+    "long": 16.4214492,
+    "lat": 46.2097949,
+    "name": "Stari grad Varaždinske Toplice",
+    "url": ""
+  },
+  {
+    "long": 15.72927,
+    "lat": 46.21446,
+    "name": "Stari grad Vrbovec",
+    "url": ""
+  },
+  {
+    "long": 17.63442,
+    "lat": 45.30513,
+    "name": "Stari grad Vrhovci - Vrhovački grad",
+    "url": ""
+  },
+  {
+    "long": 15.632,
+    "lat": 45.36439,
+    "name": "Stari grad Zimić",
+    "url": ""
+  },
+  {
+    "long": 16.4316446,
+    "lat": 46.3889955,
+    "name": "Stari grad Zrinskih - Čakovec",
+    "url": ""
+  },
+  {
+    "long": 14.568116,
+    "lat": 45.273933,
+    "name": "Stari grad Zrinskih-Kraljevica",
+    "url": ""
+  },
+  {
+    "long": 16.126804,
+    "lat": 43.757929,
+    "name": "Stari grad Zvoničac",
+    "url": ""
+  },
+  {
+    "long": 17.2767,
+    "lat": 45.5182583333333,
+    "name": "Stari grad Željnjak",
+    "url": ""
+  },
+  {
+    "long": 16.13904,
+    "lat": 46.17005,
+    "name": "Stari grad Židovina",
+    "url": ""
+  },
+  {
+    "long": 15.418672,
+    "lat": 45.758041,
+    "name": "Stari grad Žumberak",
+    "url": ""
+  },
+  {
+    "long": 18.409078,
+    "lat": 42.5422825,
+    "name": "Sokol grad",
+    "url": ""
+  },
+  {
+    "long": 15.1320857,
+    "lat": 44.9982432,
+    "name": "Sokolac - Brinje",
+    "url": ""
+  },
+  {
+    "long": 13.8947888888889,
+    "lat": 44.9695222222222,
+    "name": "Srednjovjekovno fortificirano naselje Guran",
+    "url": ""
+  },
+  {
+    "long": 15.831006,
+    "lat": 45.82105,
+    "name": "Susedgrad",
+    "url": ""
+  },
+  {
+    "long": 16.27392,
+    "lat": 45.40264,
+    "name": "Sv. Duh",
+    "url": ""
+  },
+  {
+    "long": 17.6968664,
+    "lat": 42.8388719,
+    "name": "Stonske zidine",
+    "url": ""
+  },
+  {
+    "long": 19.28001,
+    "lat": 45.2348,
+    "name": "Šarengrad",
+    "url": ""
+  },
+  {
+    "long": 16.2331742,
+    "lat": 44.0432381,
+    "name": "Topoljska gradina",
+    "url": ""
+  },
+  {
+    "long": 15.945089,
+    "lat": 46.257733,
+    "name": "Trakošćan",
+    "url": "https://trakoscan.hr/"
+  },
+  {
+    "long": 16.025606,
+    "lat": 43.979925,
+    "name": "Trosenj grad (Čučevo)",
+    "url": ""
+  },
+  {
+    "long": 14.4553278,
+    "lat": 45.332645,
+    "name": "Trsatska Gradina",
+    "url": ""
+  },
+  {
+    "long": 15.2466844,
+    "lat": 45.1487383,
+    "name": "Tržan grad - Modruš",
+    "url": ""
+  },
+  {
+    "long": 17.3730797,
+    "lat": 45.5695755,
+    "name": "Turska kula",
+    "url": ""
+  },
+  {
+    "long": 17.7340233,
+    "lat": 45.7296415,
+    "name": "Turski grad - Medinci",
+    "url": ""
+  },
+  {
+    "long": 17.526412,
+    "lat": 45.2801032,
+    "name": "Tvrdić-grad",
+    "url": ""
+  },
+  {
+    "long": 17.1523082,
+    "lat": 43.4799778,
+    "name": "Tvrđava Badnjevice",
+    "url": ""
+  },
+  {
+    "long": 15.8963571,
+    "lat": 43.7372647,
+    "name": "Tvrđava Barone",
+    "url": ""
+  },
+  {
+    "long": 18.1061318,
+    "lat": 42.6409194,
+    "name": "Tvrđava Bokar",
+    "url": ""
+  },
+  {
+    "long": 15.5495435,
+    "lat": 44.1824463,
+    "name": "Tvrđava Fortica - Stari grad Novigrad (Castrum Novum)",
+    "url": ""
+  },
+  {
+    "long": 16.4474855,
+    "lat": 43.5088249,
+    "name": "Tvrđava Gripe",
+    "url": ""
+  },
+  {
+    "long": 16.3915157,
+    "lat": 45.7058721,
+    "name": "Tvrđava Ivanić-Grad",
+    "url": ""
+  },
+  {
+    "long": 16.2472958,
+    "lat": 43.5153175,
+    "name": "Tvrđava Kamerlengo",
+    "url": ""
+  },
+  {
+    "long": 17.6968488,
+    "lat": 42.8369171,
+    "name": "Tvrđava Kaštio",
+    "url": ""
+  },
+  {
+    "long": 16.522677,
+    "lat": 43.559634,
+    "name": "Tvrđava Klis",
+    "url": ""
+  },
+  {
+    "long": 15.6828972222222,
+    "lat": 44.2000666666667,
+    "name": "Tvrđava Kurjakovića",
+    "url": ""
+  },
+  {
+    "long": 16.8303144,
+    "lat": 46.1623109,
+    "name": "Tvrđava Koprivnica",
+    "url": ""
+  },
+  {
+    "long": 18.1043155,
+    "lat": 42.640565,
+    "name": "Tvrđava Lovrijenac",
+    "url": ""
+  },
+  {
+    "long": 18.1084743,
+    "lat": 42.6428794,
+    "name": "Tvrđava Minčeta",
+    "url": ""
+  },
+  {
+    "long": 16.694155,
+    "lat": 43.444256,
+    "name": "Tvrđava Mirabela (Peovica)",
+    "url": ""
+  },
+  {
+    "long": 14.9033825,
+    "lat": 44.9866636,
+    "name": "Tvrđava Nehaj",
+    "url": ""
+  },
+  {
+    "long": 16.8780899,
+    "lat": 46.3000275,
+    "name": "Tvrđava Novi Zrin",
+    "url": ""
+  },
+  {
+    "long": 18.5327688,
+    "lat": 42.392731,
+    "name": "Tvrđava Oštro",
+    "url": ""
+  },
+  {
+    "long": 18.1125908,
+    "lat": 42.642235,
+    "name": "Tvrđava Revelin",
+    "url": ""
+  },
+  {
+    "long": 17.244374,
+    "lat": 45.14777,
+    "name": "Tvrđava Stara Gradiška",
+    "url": ""
+  },
+  {
+    "long": 18.1042577,
+    "lat": 42.6598012,
+    "name": "Tvrđava Strinčjera",
+    "url": ""
+  },
+  {
+    "long": 18.1124373,
+    "lat": 42.6400479,
+    "name": "Tvrđava Sveti Ivan - Dubrovnik",
+    "url": ""
+  },
+  {
+    "long": 15.89396,
+    "lat": 43.73989,
+    "name": "Tvrđava Sv. Ivan Šibenik",
+    "url": ""
+  },
+  {
+    "long": 16.1966962,
+    "lat": 43.0738817,
+    "name": "Tvrđava Sv. Juraj - Vis",
+    "url": ""
+  },
+  {
+    "long": 16.6718178,
+    "lat": 43.1806912,
+    "name": "Tvrđava Sv. Marije od Milosrđa - Vrboska",
+    "url": ""
+  },
+  {
+    "long": 15.889661,
+    "lat": 43.737664,
+    "name": "Tvrđava Sv. Mihovil - Šibenik",
+    "url": ""
+  },
+  {
+    "long": 15.1590923,
+    "lat": 44.0718537,
+    "name": "Tvrđava Sv. Mihovil - Preko",
+    "url": ""
+  },
+  {
+    "long": 15.85464,
+    "lat": 43.72155,
+    "name": "Tvrđava Sv. Nikola",
+    "url": ""
+  },
+  {
+    "long": 15.896357,
+    "lat": 43.737265,
+    "name": "Tvrđava Šubićevac Šibenik",
+    "url": ""
+  },
+  {
+    "long": 17.2138771,
+    "lat": 43.4497946,
+    "name": "Tvrđava Topana - Imotski",
+    "url": ""
+  },
+  {
+    "long": 17.3852152,
+    "lat": 45.8332584,
+    "name": "Tvrđava Virovitica",
+    "url": ""
+  },
+  {
+    "long": 17.366032,
+    "lat": 43.2057565,
+    "name": "Tvrđava Vrgorac",
+    "url": ""
+  },
+  {
+    "long": 16.1915839,
+    "lat": 43.0710549,
+    "name": "Utvrda Bentich (Terjun) - Vis",
+    "url": ""
+  },
+  {
+    "long": 17.5661248,
+    "lat": 43.084816,
+    "name": "Utvrda Vratar",
+    "url": ""
+  },
+  {
+    "long": 17.1970797,
+    "lat": 45.3497174,
+    "name": "Utvrda Bijela Stijena",
+    "url": ""
+  },
+  {
+    "long": 17.5661463,
+    "lat": 43.0094722,
+    "name": "Utvrda Brštanik",
+    "url": ""
+  },
+  {
+    "long": 16.1468444444445,
+    "lat": 45.214175,
+    "name": "Utvrda Bruvno",
+    "url": ""
+  },
+  {
+    "long": 17.2848667,
+    "lat": 45.4530024,
+    "name": "Utvrda Čaklovac",
+    "url": ""
+  },
+  {
+    "long": 16.3469374,
+    "lat": 46.1036195,
+    "name": "Utvrda Čanjevo",
+    "url": ""
+  },
+  {
+    "long": 16.2909,
+    "lat": 45.00786,
+    "name": "Utvrda Dobretin",
+    "url": ""
+  },
+  {
+    "long": 17.1282273,
+    "lat": 45.6694438,
+    "name": "Utvrda Donji Zdenci",
+    "url": ""
+  },
+  {
+    "long": 17.2577512,
+    "lat": 43.1599811,
+    "name": "Utvrda Drvenik",
+    "url": ""
+  },
+  {
+    "long": 16.8909994,
+    "lat": 43.4293152,
+    "name": "Utvrda Duare Zadvarje",
+    "url": ""
+  },
+  {
+    "long": 17.87083,
+    "lat": 45.04882,
+    "name": "Utvrda Dubočac",
+    "url": ""
+  },
+  {
+    "long": 17.8307724,
+    "lat": 45.270357,
+    "name": "Utvrda Frkljevci",
+    "url": ""
+  },
+  {
+    "long": 16.7030553,
+    "lat": 43.1483934,
+    "name": "Utvrda Galešnik",
+    "url": ""
+  },
+  {
+    "long": 16.4156944444444,
+    "lat": 44.01425,
+    "name": "Utvrda Glavaš (Dinarić)",
+    "url": ""
+  },
+  {
+    "long": 16.0868753,
+    "lat": 45.3420502,
+    "name": "Utvrda Glina",
+    "url": ""
+  },
+  {
+    "long": 17.0830321,
+    "lat": 45.6440182,
+    "name": "Utvrda Gornji Zdenci",
+    "url": ""
+  },
+  {
+    "long": 17.4596143,
+    "lat": 45.3119597,
+    "name": "Utvrda Gračanica",
+    "url": ""
+  },
+  {
+    "long": 16.9876099,
+    "lat": 43.4950302,
+    "name": "Utvrda Gradina",
+    "url": ""
+  },
+  {
+    "long": 17.4228329,
+    "lat": 45.3066725,
+    "name": "Utvrda Gradina (kod Baćin Dola)",
+    "url": ""
+  },
+  {
+    "long": 16.49148,
+    "lat": 43.537273,
+    "name": "Utvrda Gradina Solin",
+    "url": ""
+  },
+  {
+    "long": 16.2157613,
+    "lat": 45.1334019,
+    "name": "Utvrda Gvozdansko",
+    "url": ""
+  },
+  {
+    "long": 15.979807,
+    "lat": 43.886341,
+    "name": "Utvrda Kamičak",
+    "url": ""
+  },
+  {
+    "long": 16.5613611111112,
+    "lat": 46.1391944444444,
+    "name": "Utvrda na Gradecu",
+    "url": ""
+  },
+  {
+    "long": 15.5676856,
+    "lat": 44.0335302,
+    "name": "Utvrda Kličevica",
+    "url": ""
+  },
+  {
+    "long": 15.7613472,
+    "lat": 44.1986952,
+    "name": "Utvrda Klisina",
+    "url": ""
+  },
+  {
+    "long": 16.088877,
+    "lat": 43.043919,
+    "name": "Utvrda Komuna",
+    "url": ""
+  },
+  {
+    "long": 17.1715665,
+    "lat": 45.6342514,
+    "name": "Utvrda Končanica (Konthowcza)",
+    "url": ""
+  },
+  {
+    "long": 16.37108,
+    "lat": 45.05456,
+    "name": "Utvrda Laudanov šanac",
+    "url": ""
+  },
+  {
+    "long": 17.2179405,
+    "lat": 45.2901744,
+    "name": "Utvrda Ljesnica",
+    "url": ""
+  },
+  {
+    "long": 16.7154247,
+    "lat": 43.5937884,
+    "name": "Utvrda Nutjak",
+    "url": ""
+  },
+  {
+    "long": 17.4731322,
+    "lat": 45.4102575,
+    "name": "Utvrda Orljavac",
+    "url": ""
+  },
+  {
+    "long": 16.3419753,
+    "lat": 46.1266158,
+    "name": "Utvrda Paka",
+    "url": ""
+  },
+  {
+    "long": 16.2496367,
+    "lat": 45.3843966,
+    "name": "Utvrda Pecki",
+    "url": ""
+  },
+  {
+    "long": 15.8075559,
+    "lat": 45.3120389,
+    "name": "Utvrda Petrovac",
+    "url": ""
+  },
+  {
+    "long": 16.202166,
+    "lat": 43.906609,
+    "name": "Utvrda Petrovac",
+    "url": ""
+  },
+  {
+    "long": 15.2622736,
+    "lat": 44.845068,
+    "name": "Utvrda Prozor",
+    "url": ""
+  },
+  {
+    "long": 16.3950455,
+    "lat": 43.9137425,
+    "name": "Utvrda Prozor - Vrlika",
+    "url": ""
+  },
+  {
+    "long": 15.769159,
+    "lat": 43.809849,
+    "name": "Utvrda Rakitnica",
+    "url": ""
+  },
+  {
+    "long": 17.2236581,
+    "lat": 45.3526066,
+    "name": "Utvrda Rašaška",
+    "url": ""
+  },
+  {
+    "long": 16.01671,
+    "lat": 45.98457,
+    "name": "Utvrda Samci - Gornja Stubica",
+    "url": ""
+  },
+  {
+    "long": 13.5079055555556,
+    "lat": 45.4679555555556,
+    "name": "Utvrda Sipar",
+    "url": ""
+  },
+  {
+    "long": 14.8819712,
+    "lat": 44.8004609,
+    "name": "Utvrda Starigrad (Golubić-grad)",
+    "url": ""
+  },
+  {
+    "long": 17.1097138,
+    "lat": 46.1680422,
+    "name": "Utvrda Sveta Elizabeta (Pepelara)",
+    "url": ""
+  },
+  {
+    "long": 14.922207,
+    "lat": 44.5519408,
+    "name": "Utvrda Sveti Juraj",
+    "url": ""
+  },
+  {
+    "long": 14.8013305555555,
+    "lat": 44.7490138888889,
+    "name": "Utvrda Sv. Kuzme i Damjana",
+    "url": ""
+  },
+  {
+    "long": 14.555313,
+    "lat": 44.4614181,
+    "name": "Utvrda Sveti Petar",
+    "url": ""
+  },
+  {
+    "long": 15.6419349,
+    "lat": 44.4677065,
+    "name": "Utvrda Štulić Kulina",
+    "url": ""
+  },
+  {
+    "long": 16.5546906,
+    "lat": 43.7794527,
+    "name": "Utvrda Travnik",
+    "url": ""
+  },
+  {
+    "long": 14.0438527777778,
+    "lat": 45.3318444444444,
+    "name": "Utvrda Trovir",
+    "url": ""
+  },
+  {
+    "long": 15.5888157,
+    "lat": 45.7237868,
+    "name": "Utvrda Turanj",
+    "url": ""
+  },
+  {
+    "long": 15.262335,
+    "lat": 43.82938,
+    "name": "Utvrda Tureta",
+    "url": ""
+  },
+  {
+    "long": 15.921729,
+    "lat": 43.819023,
+    "name": "Utvrda Turina",
+    "url": ""
+  },
+  {
+    "long": 13.682225,
+    "lat": 45.0910166666667,
+    "name": "Utvrda Turnina (Torre di Borraso)",
+    "url": ""
+  },
+  {
+    "long": 15.7674408,
+    "lat": 44.5346191,
+    "name": "Utvrda Udbina",
+    "url": ""
+  },
+  {
+    "long": 16.3407622,
+    "lat": 45.3560765,
+    "name": "Premagrad/Vinodol",
+    "url": ""
+  },
+  {
+    "long": 16.244756,
+    "lat": 46.0333366,
+    "name": "Crkva Svi sveti",
+    "url": ""
+  },
+  {
+    "long": 15.763293,
+    "lat": 43.029656,
+    "name": "Utvrda Teutin grad",
+    "url": ""
+  },
+  {
+    "long": 16.3677514,
+    "lat": 45.1986109,
+    "name": "Utvrda Zrin",
+    "url": ""
+  },
+  {
+    "long": 16.5472609,
+    "lat": 45.2212036,
+    "name": "Utvrda Zrinskih - Hrvatska Kostajnica",
+    "url": ""
+  },
+  {
+    "long": 16.7750233,
+    "lat": 45.4817541,
+    "name": "Utvrda Aušovo (pretpostavljena lokacija)",
+    "url": ""
+  },
+  {
+    "long": 17.2964073,
+    "lat": 45.5517589,
+    "name": "Utvrđena benediktinska opatija Bijela",
+    "url": ""
+  },
+  {
+    "long": 17.45507,
+    "lat": 45.3895468,
+    "name": "Utvrđena benediktinska opatija Sv. Mihajla (Rudin)",
+    "url": ""
+  },
+  {
+    "long": 16.089028,
+    "lat": 43.041298,
+    "name": "Utvrđena crkva Sv. Roka",
+    "url": ""
+  },
+  {
+    "long": 16.095876,
+    "lat": 43.041195,
+    "name": "Utvrđeni samostan Sv Nikole Muster",
+    "url": ""
+  },
+  {
+    "long": 15.944931,
+    "lat": 43.859086,
+    "name": "Uzdah kula",
+    "url": ""
+  },
+  {
+    "long": 15.4535472,
+    "lat": 44.2796325,
+    "name": "Večka kula",
+    "url": ""
+  },
+  {
+    "long": 15.879685,
+    "lat": 43.729306,
+    "name": "Velika (zapadna) kula",
+    "url": ""
+  },
+  {
+    "long": 18.82623,
+    "lat": 45.08712,
+    "name": "Virgrad",
+    "url": ""
+  },
+  {
+    "long": 15.229,
+    "lat": 44.1124638888889,
+    "name": "Zadar - gradske zidine, kula",
+    "url": ""
+  },
+  {
+    "long": 15.9806013,
+    "lat": 45.814582,
+    "name": "Zagrebačka biskupska utvrda",
+    "url": ""
+  },
+  {
+    "long": 13.943827,
+    "lat": 45.2920706,
+    "name": "Zelengrad (Castellverde)",
+    "url": ""
+  },
+  {
+    "long": 16.3040555,
+    "lat": 45.8386363,
+    "name": "Stari grad Gračec",
+    "url": ""
+  },
+  {
+    "long": 15.7240806,
+    "lat": 44.1382766,
+    "name": "Zelengradina",
+    "url": ""
+  },
+  {
+    "long": 16.1964789,
+    "lat": 45.9815508,
+    "name": "Zelingrad",
+    "url": ""
+  },
+  {
+    "long": 16.0702569,
+    "lat": 44.1418181,
+    "name": "Zvonigrad",
+    "url": ""
+  },
+  {
+    "long": 17.1933138,
+    "lat": 45.435209,
+    "name": "Stari grad Pakrac",
+    "url": ""
+  },
+  {
+    "long": 17.045235,
+    "lat": 45.3705308,
+    "name": "Stari grad Subocki",
+    "url": ""
+  },
+  {
+    "long": 15.6882513,
+    "lat": 45.0578423,
+    "name": "Stari grad Furjan",
+    "url": ""
+  },
+  {
+    "long": 15.5329299,
+    "lat": 45.2189213,
+    "name": "Stari grad Blagaj",
+    "url": ""
+  },
+  {
+    "long": 15.4189253,
+    "lat": 45.2553702,
+    "name": "Utvrda Ključ",
+    "url": ""
+  },
+  {
+    "long": 15.5460997,
+    "lat": 45.4301641,
+    "name": "Stari grad Belaj",
+    "url": ""
+  },
+  {
+    "long": 15.8546299,
+    "lat": 45.2828695,
+    "name": "Stari grad Perna",
+    "url": ""
+  },
+  {
+    "long": 15.9084299,
+    "lat": 45.4466282,
+    "name": "Kirin - grad",
+    "url": ""
+  },
+  {
+    "long": 15.3234065,
+    "lat": 45.2508499,
+    "name": "Utvrda Tounj",
+    "url": ""
+  },
+  {
+    "long": 17.1619236,
+    "lat": 45.993389,
+    "name": "Stari grad Kloštar Podravski (KORBONUK-GORBONOUK)",
+    "url": ""
+  },
+  {
+    "long": 17.1736801,
+    "lat": 45.9381986,
+    "name": "Stari grad Grabrovica",
+    "url": ""
+  },
+  {
+    "long": 19.036575,
+    "lat": 45.140041,
+    "name": "Utvrda Nijemci",
+    "url": ""
+  },
+  {
+    "long": 16.8982213,
+    "lat": 45.7577448,
+    "name": "Stari grad Greda",
+    "url": ""
+  },
+  {
+    "long": 16.3070821,
+    "lat": 45.3302306,
+    "name": "Stari grad Petrinja (Gradina Jabukovac)",
+    "url": ""
+  },
+  {
+    "long": 16.2751435,
+    "lat": 45.4420073,
+    "name": "Tvrđava Petrinja",
+    "url": ""
+  },
+  {
+    "long": 16.0212582,
+    "lat": 45.1876062,
+    "name": "Kaštel Bojna",
+    "url": ""
+  },
+  {
+    "long": 16.0683011,
+    "lat": 45.4282562,
+    "name": "Španov grad (Stankovac)",
+    "url": ""
+  },
+  {
+    "long": 16.5479636,
+    "lat": 45.2268485,
+    "name": "Utvrda Djed",
+    "url": ""
+  },
+  {
+    "long": 16.6106683,
+    "lat": 45.7483584,
+    "name": "Utvrda Čazma",
+    "url": ""
+  },
+  {
+    "long": 16.5729262,
+    "lat": 45.743322,
+    "name": "Utvrda Gumnik",
+    "url": ""
+  },
+  {
+    "long": 16.5709233,
+    "lat": 45.7411501,
+    "name": "Jelaj - grad",
+    "url": ""
+  },
+  {
+    "long": 16.7259457,
+    "lat": 45.5369993,
+    "name": "Zidine - Mikleuška",
+    "url": ""
+  },
+  {
+    "long": 16.770864,
+    "lat": 45.6545125,
+    "name": "Gradište Gornja Josipovača",
+    "url": ""
+  },
+  {
+    "long": 16.875578,
+    "lat": 45.8111694,
+    "name": "Svečeva gradina - Međurača",
+    "url": ""
+  },
+  {
+    "long": 16.902035,
+    "lat": 45.8177968,
+    "name": "Gradina Nevinac",
+    "url": ""
+  },
+  {
+    "long": 16.8736867,
+    "lat": 45.805109,
+    "name": "Gradište Vojvodske livade - Međurača",
+    "url": ""
+  },
+  {
+    "long": 16.7540002,
+    "lat": 46.02702,
+    "name": "Žeđin grad - Zrinski Topalovac",
+    "url": ""
+  },
+  {
+    "long": 16.7449021,
+    "lat": 46.0249193,
+    "name": "Strmograd",
+    "url": ""
+  },
+  {
+    "long": 16.951934,
+    "lat": 45.7350065,
+    "name": "Orlov-grad",
+    "url": ""
+  },
+  {
+    "long": 17.3120773,
+    "lat": 45.9353967,
+    "name": "Gradina Stari Gradac (GRECH-GERECZ)",
+    "url": ""
+  },
+  {
+    "long": 17.0006733,
+    "lat": 46.0009809,
+    "name": "Utvrda Sv.Ana",
+    "url": ""
+  },
+  {
+    "long": 17.0517163,
+    "lat": 46.0228492,
+    "name": "Stari grad Sušica (SUSICHA-ZWSYCZA)",
+    "url": ""
+  },
+  {
+    "long": 17.1466058,
+    "lat": 45.9197775,
+    "name": "Stari grad Črešnjevica Mala (CHERESNEU-CHERESNEUICHA)",
+    "url": ""
+  },
+  {
+    "long": 14.6721768,
+    "lat": 45.0810135,
+    "name": "Gradina Kostrij",
+    "url": ""
+  },
+  {
+    "long": 14.5786428,
+    "lat": 45.2788689,
+    "name": "Gradina Gradac",
+    "url": ""
+  },
+  {
+    "long": 14.8020172,
+    "lat": 45.1220287,
+    "name": "Utvrda Lopar",
+    "url": ""
+  },
+  {
+    "long": 14.1786209,
+    "lat": 45.1379184,
+    "name": "Gradski bedemi - Plomin",
+    "url": ""
+  },
+  {
+    "long": 14.5945108,
+    "lat": 44.5418076,
+    "name": "Bizantska utvrda - otočić Palacol",
+    "url": ""
+  },
+  {
+    "long": 14.7356218,
+    "lat": 45.0677431,
+    "name": "Bizantska utvrda - Veli grad",
+    "url": ""
+  },
+  {
+    "long": 14.5691425,
+    "lat": 45.2959771,
+    "name": "Gradina Črni vrh",
+    "url": ""
+  },
+  {
+    "long": 14.5271475,
+    "lat": 45.3437385,
+    "name": "Gradina Ponikve",
+    "url": ""
+  },
+  {
+    "long": 14.565611,
+    "lat": 45.3499,
+    "name": "Gradina Plosna",
+    "url": ""
+  },
+  {
+    "long": 15.5001748,
+    "lat": 43.8588499,
+    "name": "Bizantska utvrda Vrgada",
+    "url": ""
+  },
+  {
+    "long": 15.1456696,
+    "lat": 43.9317341,
+    "name": "Gradina Koženjak",
+    "url": ""
+  },
+  {
+    "long": 15.0618643,
+    "lat": 44.4561841,
+    "name": "Utvrda Sv. Juraj (iznad Paga)",
+    "url": ""
+  },
+  {
+    "long": 15.0537854,
+    "lat": 44.4452013,
+    "name": "Kula Skrivanat",
+    "url": ""
+  },
+  {
+    "long": 14.6265417,
+    "lat": 45.0942277,
+    "name": "Gradina Sv. Kršovan",
+    "url": ""
+  },
+  {
+    "long": 14.600689,
+    "lat": 45.0826,
+    "name": "Gradina Kastril",
+    "url": ""
+  },
+  {
+    "long": 14.5866787,
+    "lat": 45.0720356,
+    "name": "Gradina Zagradine",
+    "url": ""
+  },
+  {
+    "long": 16.6024232,
+    "lat": 43.1704594,
+    "name": "Gradina Purkin Kuk",
+    "url": ""
+  },
+  {
+    "long": 16.6453171,
+    "lat": 43.1617263,
+    "name": "Gradina Gračišće",
+    "url": ""
+  },
+  {
+    "long": 16.5957981,
+    "lat": 43.1909314,
+    "name": "Gradina Glavica",
+    "url": ""
+  },
+  {
+    "long": 16.3954773,
+    "lat": 43.5475337,
+    "name": "Kaštel Kaštel Gomilica (kaštilac)",
+    "url": ""
+  },
+  {
+    "long": 17.1307647,
+    "lat": 42.9585956,
+    "name": "Tvrđava Forteca",
+    "url": ""
+  },
+  {
+    "long": 14.543099,
+    "lat": 45.1829,
+    "name": "Gradina Veli vrh",
+    "url": ""
+  },
+  {
+    "long": 18.4105727,
+    "lat": 45.3071797,
+    "name": "Castrum episcopalis Diaco",
+    "url": ""
+  },
+  {
+    "long": 15.1818931,
+    "lat": 44.2415251,
+    "name": "Nin",
+    "url": ""
+  },
+  {
+    "long": 19.098178,
+    "lat": 45.298398,
+    "name": "Utvrda Sotin (Zata)",
+    "url": ""
+  },
+  {
+    "long": 19.005307,
+    "lat": 45.348668,
+    "name": "Utvrda Vukovo",
+    "url": ""
+  },
+  {
+    "long": 19.011645,
+    "lat": 45.429967,
+    "name": "Utvrda Borovo",
+    "url": ""
+  },
+  {
+    "long": 19.0462429,
+    "lat": 44.9853834,
+    "name": "Zvizdan grad",
+    "url": ""
+  },
+  {
+    "long": 14.5907557,
+    "lat": 45.2385898,
+    "name": "Utvrda Maltempo",
+    "url": ""
+  },
+  {
+    "long": 16.257388888889,
+    "lat": 46.173,
+    "name": "Utvrda Rute",
+    "url": ""
+  },
+  {
+    "long": 14.3479514,
+    "lat": 45.3743678,
+    "name": "Kastav",
+    "url": ""
+  },
+  {
+    "long": 16.5247024,
+    "lat": 43.53663,
+    "name": "Utvrda Kuk",
+    "url": ""
+  },
+  {
+    "long": 16.7157945,
+    "lat": 43.6117139,
+    "name": "Tilurij",
+    "url": ""
+  },
+  {
+    "long": 18.70075,
+    "lat": 45.564889,
+    "name": "Krunska utvrda",
+    "url": ""
+  },
+  {
+    "long": 14.5551842,
+    "lat": 45.2111215,
+    "name": "Frankapanski kaštel Omišalj",
+    "url": ""
+  },
+  {
+    "long": 18.6051627,
+    "lat": 45.7858605,
+    "name": "Utvrda Baranyavar",
+    "url": ""
+  },
+  {
+    "long": 18.686239,
+    "lat": 45.622216,
+    "name": "Utvrđeno naselje Darda",
+    "url": ""
+  },
+  {
+    "long": 18.69527,
+    "lat": 45.287239,
+    "name": "Bedemgrad (Ivankovo)",
+    "url": ""
+  },
+  {
+    "long": 18.729012,
+    "lat": 45.371898,
+    "name": "Hermanvar",
+    "url": ""
+  },
+  {
+    "long": 15.792547,
+    "lat": 43.804121,
+    "name": "Liburnsko - rimsko naselje Arauzona, Velika Mrdakovica",
+    "url": ""
+  },
+  {
+    "long": 16.300422,
+    "lat": 43.80281,
+    "name": "Rimski grad Magnum",
+    "url": ""
+  },
+  {
+    "long": 18.805046,
+    "lat": 45.288277,
+    "name": "Szent Helye, Cibale, Vinkovci",
+    "url": ""
+  },
+  {
+    "long": 18.772688,
+    "lat": 45.366607,
+    "name": "Gradina Thord - Tordinci",
+    "url": ""
+  },
+  {
+    "long": 18.689325,
+    "lat": 45.191907,
+    "name": "Utvrda Cerna - Czerna",
+    "url": ""
+  },
+  {
+    "long": 18.865085,
+    "lat": 45.334321,
+    "name": "Zidine kod Nuštra, Ostaci samostana i utvrde Gorjanskih",
+    "url": ""
+  },
+  {
+    "long": 18.937646,
+    "lat": 45.214956,
+    "name": "Castellum Szlako(v)cz",
+    "url": ""
+  },
+  {
+    "long": 18.8491652,
+    "lat": 45.2192644,
+    "name": "Gradina kod Privlake",
+    "url": ""
+  },
+  {
+    "long": 18.833721,
+    "lat": 45.363358,
+    "name": "Gradina Polgar",
+    "url": ""
+  },
+  {
+    "long": 18.968979,
+    "lat": 45.176847,
+    "name": "Gradina kod Đeletovaca",
+    "url": ""
+  },
+  {
+    "long": 18.470418,
+    "lat": 45.070248,
+    "name": "Lukačev Šamac",
+    "url": ""
+  },
+  {
+    "long": 17.0539141,
+    "lat": 45.4419467,
+    "name": "Gradina Donja kućišta",
+    "url": ""
+  },
+  {
+    "long": 17.054472,
+    "lat": 45.4388602,
+    "name": "Gradina Đelovi",
+    "url": ""
+  },
+  {
+    "long": 17.0950055,
+    "lat": 45.4326266,
+    "name": "Gradina Kukunjevac",
+    "url": ""
+  },
+  {
+    "long": 15.9320031,
+    "lat": 46.177807,
+    "name": "Plat - utvrđeno prapovijesno visinsko naselje",
+    "url": ""
+  },
+  {
+    "long": 16.951941,
+    "lat": 45.735,
+    "name": "Gradina Deccha (Orlovac, Orlovgrad)",
+    "url": ""
+  },
+  {
+    "long": 16.962384,
+    "lat": 45.8294,
+    "name": "Gradina Polichna - Palychna (Severin)",
+    "url": ""
+  },
+  {
+    "long": 17.356106,
+    "lat": 45.244221,
+    "name": "Utvrda Prvča",
+    "url": ""
+  },
+  {
+    "long": 15.868446,
+    "lat": 46.160418,
+    "name": "Stari grad Šabac",
+    "url": ""
+  },
+  {
+    "long": 16.907787,
+    "lat": 45.7544,
+    "name": "Gradina Polosnicha (Grčina)",
+    "url": ""
+  },
+  {
+    "long": 16.778086,
+    "lat": 45.8877,
+    "name": "Gradina Gwodowcz (Gudovac)",
+    "url": ""
+  },
+  {
+    "long": 16.862148,
+    "lat": 45.8301,
+    "name": "Gradina Orbowa (Vrbona)",
+    "url": ""
+  },
+  {
+    "long": 16.8503773,
+    "lat": 45.7602067,
+    "name": "Gradina Sredna (Srijedska)",
+    "url": ""
+  },
+  {
+    "long": 16.8875742,
+    "lat": 45.9584446,
+    "name": "Gradina Kupinovac",
+    "url": ""
+  },
+  {
+    "long": 18.823331,
+    "lat": 44.880747,
+    "name": "Alšan / Mašanj-grad (pretpostavljena lokacija)",
+    "url": ""
+  },
+  {
+    "long": 17.033543,
+    "lat": 45.7226,
+    "name": "Gradina Radowan (Pavlovac)",
+    "url": ""
+  },
+  {
+    "long": 16.0190277777778,
+    "lat": 43.6765555555556,
+    "name": "Kaštel sv. Ivana",
+    "url": ""
+  },
+  {
+    "long": 15.8922968,
+    "lat": 43.7329494,
+    "name": "Bastion sv. Katarine",
+    "url": ""
+  },
+  {
+    "long": 16.5985446,
+    "lat": 45.7156832,
+    "name": "Gradište Gradići",
+    "url": ""
+  },
+  {
+    "long": 17.5541353,
+    "lat": 42.7393929,
+    "name": "Gradina Bijeđ (Veliki Gradac, Veli Grad)",
+    "url": ""
+  },
+  {
+    "long": 16.8559151,
+    "lat": 45.6384962,
+    "name": "Šašar grad",
+    "url": ""
+  },
+  {
+    "long": 16.9842625,
+    "lat": 45.6385574,
+    "name": "Gradina Palešnik",
+    "url": ""
+  },
+  {
+    "long": 16.9311866,
+    "lat": 45.6441922,
+    "name": "Gradina Veliki Pašijan - Pašin han",
+    "url": ""
+  },
+  {
+    "long": 17.2046971,
+    "lat": 45.5851069,
+    "name": "Gradina Podborje",
+    "url": ""
+  },
+  {
+    "long": 14.5229656,
+    "lat": 45.1508187,
+    "name": "Gradina - rt Ćuf",
+    "url": ""
+  },
+  {
+    "long": 18.0019998,
+    "lat": 45.1538074,
+    "name": "Utvrda Vukovac",
+    "url": ""
+  },
+  {
+    "long": 17.710229,
+    "lat": 45.228994,
+    "name": "Utvrda Gradpotok (Ratkovica)",
+    "url": ""
+  },
+  {
+    "long": 17.704107,
+    "lat": 45.120041,
+    "name": "Utvrda Giletić (Gyleth)",
+    "url": ""
+  },
+  {
+    "long": 17.512111,
+    "lat": 45.111334,
+    "name": "Utvrda Svinjar",
+    "url": ""
+  },
+  {
+    "long": 17.694379,
+    "lat": 45.272635,
+    "name": "Majdan grad",
+    "url": ""
+  },
+  {
+    "long": 17.532586,
+    "lat": 45.671474,
+    "name": "Humska utvrda",
+    "url": ""
+  },
+  {
+    "long": 17.467899,
+    "lat": 45.243377,
+    "name": "Utvrda Zapolje",
+    "url": ""
+  },
+  {
+    "long": 16.223482,
+    "lat": 43.5298038,
+    "name": "Gradina Sutilija",
+    "url": ""
+  },
+  {
+    "long": 16.1235417,
+    "lat": 43.5208743,
+    "name": "Utvrda Drid",
+    "url": ""
+  },
+  {
+    "long": 17.943604,
+    "lat": 45.4104,
+    "name": "Utvrda Gradište",
+    "url": ""
+  },
+  {
+    "long": 16.6156294,
+    "lat": 46.1390324,
+    "name": "Gradina Veliki Poganac",
+    "url": ""
+  },
+  {
+    "long": 16.029059,
+    "lat": 44.529266,
+    "name": "Utvrda Boričevac",
+    "url": ""
+  },
+  {
+    "long": 15.960337,
+    "lat": 43.5288,
+    "name": "Gradina Rogoznica",
+    "url": ""
+  },
+  {
+    "long": 16.0083,
+    "lat": 43.5816,
+    "name": "Gradina Marinova strana",
+    "url": ""
+  },
+  {
+    "long": 15.925581,
+    "lat": 43.5728,
+    "name": "Gradina Kremik",
+    "url": ""
+  },
+  {
+    "long": 14.4423999,
+    "lat": 45.3954963,
+    "name": "Gradina - Gradišće iznad Brnelića",
+    "url": ""
+  },
+  {
+    "long": 16.307814,
+    "lat": 45.374989,
+    "name": "Klinac grad",
+    "url": ""
+  },
+  {
+    "long": 16.230485,
+    "lat": 45.251033,
+    "name": "Budim grad",
+    "url": ""
+  },
+  {
+    "long": 17.5590478,
+    "lat": 42.7382007,
+    "name": "Gradina Mali Gradac (Mali Grad)",
+    "url": ""
+  },
+  {
+    "long": 16.5211952,
+    "lat": 45.6629692,
+    "name": "Utvrda Križ",
+    "url": ""
+  },
+  {
+    "long": 16.545884,
+    "lat": 46.024652,
+    "name": "Utvrda Križevci",
+    "url": ""
+  },
+  {
+    "long": 16.485781,
+    "lat": 46.059054,
+    "name": "Kaštel Gušćerovec",
+    "url": ""
+  },
+  {
+    "long": 16.840624,
+    "lat": 45.899093,
+    "name": "Utvrda Bjelovar",
+    "url": ""
+  },
+  {
+    "long": 17.692184,
+    "lat": 45.703443,
+    "name": "Utvrda Slatina",
+    "url": ""
+  },
+  {
+    "long": 14.476471,
+    "lat": 45.1129,
+    "name": "Gradina iznad Čavlene",
+    "url": ""
+  },
+  {
+    "long": 17.711606,
+    "lat": 45.545747,
+    "name": "Utvrda Drenovac-Dernovc (Klak)",
+    "url": ""
+  },
+  {
+    "long": 16.072637,
+    "lat": 46.0825,
+    "name": "Utvrda Zlatar",
+    "url": ""
+  },
+  {
+    "long": 17.850705,
+    "lat": 45.4941,
+    "name": "Stari grad Orahovica (Oršulić)",
+    "url": ""
+  },
+  {
+    "long": 16.654924,
+    "lat": 45.933965,
+    "name": "Utvrda Cirkvena",
+    "url": ""
+  },
+  {
+    "long": 16.319527,
+    "lat": 45.929033,
+    "name": "Utvrda Rakovec",
+    "url": ""
+  },
+  {
+    "long": 16.53898,
+    "lat": 45.836257,
+    "name": "Utvrda Dubrava (Dobroa)",
+    "url": ""
+  },
+  {
+    "long": 15.8825183,
+    "lat": 45.8959782,
+    "name": "Stari grad Lubenik",
+    "url": ""
+  },
+  {
+    "long": 16.088032,
+    "lat": 46.0229,
+    "name": "Stari grad Bistrica",
+    "url": ""
+  },
+  {
+    "long": 15.9402716,
+    "lat": 46.0643318,
+    "name": "Stari grad Križanić",
+    "url": ""
+  },
+  {
+    "long": 14.621007,
+    "lat": 45.0503,
+    "name": "Gradina Kostrij",
+    "url": ""
+  },
+  {
+    "long": 16.2185615,
+    "lat": 46.0335563,
+    "name": "Stari grad Beloslavec",
+    "url": ""
+  },
+  {
+    "long": 15.950327,
+    "lat": 43.677953,
+    "name": "Kaštel Andreis",
+    "url": ""
+  },
+  {
+    "long": 16.28692,
+    "lat": 45.639321,
+    "name": "Castellum Nowigrad kod Suše",
+    "url": ""
+  },
+  {
+    "long": 16.7993242,
+    "lat": 43.6085735,
+    "name": "Utvrda Čačvina",
+    "url": ""
+  },
+  {
+    "long": 16.1862087,
+    "lat": 46.0993568,
+    "name": "Utvrda Gornja Konjščina (Gornja Selnica)?",
+    "url": ""
+  },
+  {
+    "long": 16.015811,
+    "lat": 46.1061,
+    "name": "Utvrda Sutinsko",
+    "url": ""
+  },
+  {
+    "long": 16.122371,
+    "lat": 46.0988,
+    "name": "Utvrda Donja Batina",
+    "url": ""
+  },
+  {
+    "long": 18.352117,
+    "lat": 45.505794,
+    "name": "Utvrda Subotica (Castellana Zombathel)",
+    "url": ""
+  },
+  {
+    "long": 15.901633,
+    "lat": 43.7198857,
+    "name": "Bedem Mandalina",
+    "url": ""
+  },
+  {
+    "long": 17.271908,
+    "lat": 45.831663,
+    "name": "Gradina kod Špišić Bukovice",
+    "url": ""
+  },
+  {
+    "long": 14.573603,
+    "lat": 45.0272708,
+    "name": "Gradski bedem - Krk",
+    "url": ""
+  },
+  {
+    "long": 14.4514471,
+    "lat": 45.3966042,
+    "name": "Ostatci Rimskog bedema - Podkilavac",
+    "url": ""
+  },
+  {
+    "long": 14.4573534,
+    "lat": 45.4001676,
+    "name": "Ostatci Rimskog bedema",
+    "url": ""
+  },
+  {
+    "long": 15.297193,
+    "lat": 44.9563,
+    "name": "Stari grad Dabar (Sokolić grad)",
+    "url": ""
+  },
+  {
+    "long": 15.8485293,
+    "lat": 44.3013394,
+    "name": "Gradina - Gračac",
+    "url": ""
+  },
+  {
+    "long": 14.254621,
+    "lat": 45.4897,
+    "name": "Gradina Šapjane",
+    "url": ""
+  },
+  {
+    "long": 16.375056,
+    "lat": 45.467861,
+    "name": "Turska reduta u Sisku",
+    "url": ""
+  },
+  {
+    "long": 16.367706,
+    "lat": 45.466836,
+    "name": "Kula Berzay u Sisku",
+    "url": ""
+  },
+  {
+    "long": 16.322288,
+    "lat": 45.474006,
+    "name": "Utvrda Drenčina",
+    "url": ""
+  },
+  {
+    "long": 16.372131,
+    "lat": 45.484149,
+    "name": "Siscia",
+    "url": ""
+  },
+  {
+    "long": 14.594669,
+    "lat": 45.1219,
+    "name": "Gradina Gračište",
+    "url": ""
+  },
+  {
+    "long": 16.2334666,
+    "lat": 45.9095458,
+    "name": "Crkva sv. Nikole (Castrum Nicola?)",
+    "url": ""
+  },
+  {
+    "long": 15.977165,
+    "lat": 43.687775,
+    "name": "Kula Parisotto",
+    "url": ""
+  },
+  {
+    "long": 15.996771,
+    "lat": 45.476481,
+    "name": "Utvrda Pokupsko",
+    "url": ""
+  },
+  {
+    "long": 15.599594,
+    "lat": 45.367509,
+    "name": "Stari grad Budački",
+    "url": ""
+  },
+  {
+    "long": 15.439799,
+    "lat": 45.400748,
+    "name": "Stari grad Zvečaj",
+    "url": ""
+  },
+  {
+    "long": 15.58584,
+    "lat": 45.497497,
+    "name": "Tvrđava Orlica",
+    "url": ""
+  },
+  {
+    "long": 18.053688,
+    "lat": 45.4926,
+    "name": "Utvrda Martin",
+    "url": ""
+  },
+  {
+    "long": 16.220107,
+    "lat": 45.893906,
+    "name": "Sari grad Paukovec",
+    "url": ""
+  },
+  {
+    "long": 16.2652588,
+    "lat": 45.9730165,
+    "name": "Stari grad Berislavec",
+    "url": ""
+  },
+  {
+    "long": 16.248721,
+    "lat": 46.208077,
+    "name": "Bela II.",
+    "url": ""
+  },
+  {
+    "long": 16.252777,
+    "lat": 46.207019,
+    "name": "Kaštel Podbela (Bela I.)",
+    "url": ""
+  },
+  {
+    "long": 16.455399,
+    "lat": 46.305296,
+    "name": "? Štefanovec Bartolovečki ?",
+    "url": ""
+  },
+  {
+    "long": 14.190457,
+    "lat": 45.346,
+    "name": "Gradina Gradec",
+    "url": ""
+  },
+  {
+    "long": 14.1930916666666,
+    "lat": 45.3603333333333,
+    "name": "Srednjovjekovni limes na Planiku",
+    "url": ""
+  },
+  {
+    "long": 16.989577,
+    "lat": 46.068031,
+    "name": "Utvrda Prodavić",
+    "url": ""
+  },
+  {
+    "long": 16.950869,
+    "lat": 46.074919,
+    "name": "Utvrda Komarna (Novigrad Podravski)",
+    "url": ""
+  },
+  {
+    "long": 18.19274,
+    "lat": 45.369856,
+    "name": "Utvrda Palina",
+    "url": ""
+  },
+  {
+    "long": 16.109197,
+    "lat": 45.956,
+    "name": "Kamenica - Nepoznato",
+    "url": ""
+  },
+  {
+    "long": 18.142329,
+    "lat": 45.286882,
+    "name": "Utvrda Radanovac",
+    "url": ""
+  },
+  {
+    "long": 14.562573,
+    "lat": 45.276702,
+    "name": "Napoleonova utvrda Fortica u Kraljevici",
+    "url": ""
+  },
+  {
+    "long": 16.9869661,
+    "lat": 45.3457663,
+    "name": "Turski grad",
+    "url": ""
+  },
+  {
+    "long": 14.69955,
+    "lat": 45.18111,
+    "name": "Stari grad Kotor",
+    "url": ""
+  },
+  {
+    "long": 14.552065,
+    "lat": 45.27812,
+    "name": "Utvrda Srščica",
+    "url": ""
+  },
+  {
+    "long": 14.443213,
+    "lat": 45.326966,
+    "name": "Zidine i kaštel starog grada Rijeke",
+    "url": ""
+  },
+  {
+    "long": 14.6137905,
+    "lat": 45.2218082,
+    "name": "Gradina Čelo na Havišću",
+    "url": ""
+  },
+  {
+    "long": 14.276662,
+    "lat": 45.291677,
+    "name": "Kaštel Lovran",
+    "url": ""
+  },
+  {
+    "long": 14.248946,
+    "lat": 45.22679,
+    "name": "Stari grad Mošćenice",
+    "url": ""
+  },
+  {
+    "long": 15.6197777777778,
+    "lat": 43.8811944444444,
+    "name": "Kula Osridak",
+    "url": ""
+  },
+  {
+    "long": 15.628676,
+    "lat": 43.854901,
+    "name": "Mletačka pogranična stražarnica",
+    "url": ""
+  },
+  {
+    "long": 15.619356,
+    "lat": 44.115268,
+    "name": "Šušina kula",
+    "url": ""
+  },
+  {
+    "long": 17.161837,
+    "lat": 45.5014,
+    "name": "Grad Pavla Pukura (Bedem - Pavlovina)",
+    "url": ""
+  },
+  {
+    "long": 14.235643,
+    "lat": 45.178906,
+    "name": "Kaštel Brseč",
+    "url": ""
+  },
+  {
+    "long": 15.301154,
+    "lat": 44.5761,
+    "name": "Stari grad Smiljan",
+    "url": ""
+  },
+  {
+    "long": 14.176137,
+    "lat": 45.210257,
+    "name": "Rudera (ostaci moguće utvrde)",
+    "url": ""
+  },
+  {
+    "long": 14.392755,
+    "lat": 44.693577,
+    "name": "Utvrđeni Osor",
+    "url": ""
+  },
+  {
+    "long": 14.331384,
+    "lat": 44.888355,
+    "name": "Utvrda Lubenice (Zubjenice)",
+    "url": ""
+  },
+  {
+    "long": 14.135657,
+    "lat": 45.206828,
+    "name": "Čepićki kaštel",
+    "url": ""
+  },
+  {
+    "long": 14.040578,
+    "lat": 45.203385,
+    "name": "Stari grad Pićan (Biben)",
+    "url": ""
+  },
+  {
+    "long": 14.010239,
+    "lat": 45.22008,
+    "name": "Stari grad Gračišće (Galliniana)",
+    "url": ""
+  },
+  {
+    "long": 13.962978,
+    "lat": 45.233948,
+    "name": "Kaštel Lindar",
+    "url": ""
+  },
+  {
+    "long": 15.7947443,
+    "lat": 43.9630363,
+    "name": "Tvrđava Ostrovica",
+    "url": ""
+  },
+  {
+    "long": 15.437156,
+    "lat": 44.5791,
+    "name": "Stari grad Grebenar",
+    "url": ""
+  },
+  {
+    "long": 13.900264,
+    "lat": 45.252285,
+    "name": "Kaštel Beram (Vermo)",
+    "url": ""
+  },
+  {
+    "long": 13.841084,
+    "lat": 45.217346,
+    "name": "Stari grad Tinjan",
+    "url": ""
+  },
+  {
+    "long": 14.1033,
+    "lat": 45.27391,
+    "name": "Utvrda Posert (Šabec)",
+    "url": ""
+  },
+  {
+    "long": 14.09359,
+    "lat": 45.29003,
+    "name": "Kaštel Paz",
+    "url": ""
+  },
+  {
+    "long": 14.034724,
+    "lat": 45.258265,
+    "name": "Kaštel Gologorica",
+    "url": ""
+  },
+  {
+    "long": 18.426007,
+    "lat": 42.453505,
+    "name": "Stari grad Molunat",
+    "url": ""
+  },
+  {
+    "long": 17.0298932,
+    "lat": 45.5645269,
+    "name": "Utvrda Blagorodovac",
+    "url": ""
+  },
+  {
+    "long": 14.406167,
+    "lat": 44.960932,
+    "name": "Cres - zidine i kula",
+    "url": ""
+  },
+  {
+    "long": 14.472968,
+    "lat": 44.532291,
+    "name": "Utvrda Kaštel",
+    "url": ""
+  },
+  {
+    "long": 14.475757,
+    "lat": 44.53083,
+    "name": "Nestala utvrda Martelo",
+    "url": ""
+  },
+  {
+    "long": 18.209412,
+    "lat": 45.1075,
+    "name": "Gradina Paljevine",
+    "url": ""
+  },
+  {
+    "long": 17.767111,
+    "lat": 45.1944,
+    "name": "Utvrda Budim",
+    "url": ""
+  },
+  {
+    "long": 18.063516,
+    "lat": 45.2567,
+    "name": "Utvrda Kindrovo - Gradac",
+    "url": ""
+  },
+  {
+    "long": 18.023854,
+    "lat": 45.2367,
+    "name": "Utvrđena crkva sv. Benedikta",
+    "url": ""
+  },
+  {
+    "long": 17.959578,
+    "lat": 45.2540296,
+    "name": "Utvrda Zdenci",
+    "url": ""
+  },
+  {
+    "long": 17.923563,
+    "lat": 45.2085,
+    "name": "Utvrda Gradište - Završje",
+    "url": ""
+  },
+  {
+    "long": 14.501407,
+    "lat": 44.520892,
+    "name": "Kula Veli Lošinj",
+    "url": ""
+  },
+  {
+    "long": 17.8296518,
+    "lat": 45.2306643,
+    "name": "Gradina sv. Ana",
+    "url": ""
+  },
+  {
+    "long": 15.0771666666667,
+    "lat": 44.2911111111111,
+    "name": "Kaštelina Vir",
+    "url": ""
+  },
+  {
+    "long": 18.166941,
+    "lat": 45.762406,
+    "name": "Utvrda Donji Miholjac",
+    "url": ""
+  },
+  {
+    "long": 17.988539,
+    "lat": 45.2091,
+    "name": "Gradina kod izvora sv.Petke",
+    "url": ""
+  },
+  {
+    "long": 18.013214,
+    "lat": 45.2005,
+    "name": "Utvrda na Marića brdu",
+    "url": ""
+  },
+  {
+    "long": 15.384326,
+    "lat": 44.6136,
+    "name": "Stari grad Budak",
+    "url": ""
+  },
+  {
+    "long": 18.217107,
+    "lat": 42.581534,
+    "name": "Stari grad Cavtat Epidaur",
+    "url": ""
+  },
+  {
+    "long": 17.135415,
+    "lat": 42.961033,
+    "name": "Utvrđena Korčula",
+    "url": ""
+  },
+  {
+    "long": 17.0791805,
+    "lat": 45.5678045,
+    "name": "Utvrda Sveti Duh (Pretpostavljena lokacija)",
+    "url": ""
+  },
+  {
+    "long": 17.179764,
+    "lat": 42.974396,
+    "name": "Kaštel Orebić",
+    "url": ""
+  },
+  {
+    "long": 16.693592,
+    "lat": 42.946593,
+    "name": "Utvrda na Humu",
+    "url": ""
+  },
+  {
+    "long": 16.184523,
+    "lat": 43.060419,
+    "name": "Kula Perast",
+    "url": ""
+  },
+  {
+    "long": 16.128086,
+    "lat": 43.035011,
+    "name": "Mladineova kula",
+    "url": ""
+  },
+  {
+    "long": 16.129134,
+    "lat": 43.027859,
+    "name": "Zonktova kula",
+    "url": ""
+  },
+  {
+    "long": 16.215152,
+    "lat": 43.068598,
+    "name": "Utvrda Welington",
+    "url": ""
+  },
+  {
+    "long": 16.187072,
+    "lat": 43.064705,
+    "name": "Utvrđena grčka kolonija Issa",
+    "url": ""
+  },
+  {
+    "long": 14.389181,
+    "lat": 44.665667,
+    "name": "Nerezinski kaštel",
+    "url": ""
+  },
+  {
+    "long": 14.308092,
+    "lat": 44.507773,
+    "name": "Utvrda Susak",
+    "url": ""
+  },
+  {
+    "long": 13.8549507,
+    "lat": 44.8467339,
+    "name": "Gradina Vintijan",
+    "url": ""
+  },
+  {
+    "long": 13.8452196,
+    "lat": 44.8656068,
+    "name": "Gradina Monte Zaro",
+    "url": ""
+  },
+  {
+    "long": 13.88244,
+    "lat": 44.8113,
+    "name": "Gradina Kaštelir",
+    "url": ""
+  },
+  {
+    "long": 13.911799,
+    "lat": 44.7855,
+    "name": "Gradina Kastril",
+    "url": ""
+  },
+  {
+    "long": 13.9081726,
+    "lat": 44.8122651,
+    "name": "Gradina Premantura",
+    "url": ""
+  },
+  {
+    "long": 13.930258,
+    "lat": 44.8041,
+    "name": "Gradina - Punta Kašteja",
+    "url": ""
+  },
+  {
+    "long": 14.908195,
+    "lat": 44.529195,
+    "name": "Ostaci moguće utvrde?",
+    "url": ""
+  },
+  {
+    "long": 13.940573,
+    "lat": 44.83,
+    "name": "Gradina Vrčevan",
+    "url": ""
+  },
+  {
+    "long": 15.441033,
+    "lat": 44.249372,
+    "name": "Lergova gradina",
+    "url": ""
+  },
+  {
+    "long": 16.4780384,
+    "lat": 45.9130561,
+    "name": "Kaštel Gradec",
+    "url": ""
+  },
+  {
+    "long": 15.165029,
+    "lat": 44.22109,
+    "name": "Zatonska kaštelina",
+    "url": ""
+  },
+  {
+    "long": 15.17315,
+    "lat": 44.174531,
+    "name": "Kulina",
+    "url": ""
+  },
+  {
+    "long": 15.456195,
+    "lat": 44.169891,
+    "name": "Kula Janković",
+    "url": ""
+  },
+  {
+    "long": 15.482701,
+    "lat": 44.541517,
+    "name": "Utvrda Barlete Velike (Velika utvrda)",
+    "url": ""
+  },
+  {
+    "long": 15.484459,
+    "lat": 44.540473,
+    "name": "Utvrda Barlete Male (Mala utvrda)",
+    "url": ""
+  },
+  {
+    "long": 15.296144,
+    "lat": 44.653503,
+    "name": "Gradina Dubrava",
+    "url": ""
+  },
+  {
+    "long": 13.9281811,
+    "lat": 44.8379902,
+    "name": "Gradina sv. Petar",
+    "url": ""
+  },
+  {
+    "long": 15.704829,
+    "lat": 44.7289,
+    "name": "Stari grad Korenica",
+    "url": ""
+  },
+  {
+    "long": 15.629823,
+    "lat": 44.366831,
+    "name": "Gradina Vrhovac",
+    "url": ""
+  },
+  {
+    "long": 15.632108,
+    "lat": 44.368442,
+    "name": "Ruševina gradine",
+    "url": ""
+  },
+  {
+    "long": 15.30391,
+    "lat": 44.630991,
+    "name": "Klanačka gradina",
+    "url": ""
+  },
+  {
+    "long": 15.467395,
+    "lat": 44.607641,
+    "name": "Utvrda Prika strana Široka Kula",
+    "url": ""
+  },
+  {
+    "long": 15.765828,
+    "lat": 44.297287,
+    "name": "Utvrda Lukovac",
+    "url": ""
+  },
+  {
+    "long": 15.520003,
+    "lat": 44.44489,
+    "name": "Stari grad Medak Nuovo",
+    "url": ""
+  },
+  {
+    "long": 15.741927,
+    "lat": 44.438164,
+    "name": "Stari grad Komić",
+    "url": ""
+  },
+  {
+    "long": 15.7924893,
+    "lat": 44.5068316,
+    "name": "Ruševine jednog od Karlovićevih gradova",
+    "url": ""
+  },
+  {
+    "long": 15.591014,
+    "lat": 44.490131,
+    "name": "Utvrda Zeba",
+    "url": ""
+  },
+  {
+    "long": 15.425093,
+    "lat": 44.441159,
+    "name": "Počitelj grad",
+    "url": ""
+  },
+  {
+    "long": 15.605591,
+    "lat": 44.382286,
+    "name": "Stari grad Raduč",
+    "url": ""
+  },
+  {
+    "long": 15.392277,
+    "lat": 44.680248,
+    "name": "Gradina Štitar",
+    "url": ""
+  },
+  {
+    "long": 15.665033,
+    "lat": 44.427423,
+    "name": "Vranjik grad",
+    "url": ""
+  },
+  {
+    "long": 15.476739,
+    "lat": 44.846837,
+    "name": "Stari grad Pusti Perušić",
+    "url": ""
+  },
+  {
+    "long": 15.505146,
+    "lat": 44.527745,
+    "name": "Stari grad Vrebac",
+    "url": ""
+  },
+  {
+    "long": 15.538744,
+    "lat": 44.517797,
+    "name": "Zelića gradina",
+    "url": ""
+  },
+  {
+    "long": 15.534345,
+    "lat": 44.51502,
+    "name": "Spaića gradina",
+    "url": ""
+  },
+  {
+    "long": 15.348544,
+    "lat": 44.283607,
+    "name": "Kaštel Ražanac",
+    "url": ""
+  },
+  {
+    "long": 15.459885,
+    "lat": 44.292731,
+    "name": "Utvrda Paklarić",
+    "url": ""
+  },
+  {
+    "long": 15.377943,
+    "lat": 44.328708,
+    "name": "Utvrda Sv. Trojica",
+    "url": ""
+  },
+  {
+    "long": 15.597585,
+    "lat": 44.21501,
+    "name": "Utvrda Pržunac",
+    "url": ""
+  },
+  {
+    "long": 15.592411,
+    "lat": 44.214317,
+    "name": "Gradina Šibenik",
+    "url": ""
+  },
+  {
+    "long": 15.3082619,
+    "lat": 44.5575675,
+    "name": "Stari grad Bogdanić",
+    "url": ""
+  },
+  {
+    "long": 15.554016,
+    "lat": 44.7645,
+    "name": "Kulina - Trnavac",
+    "url": ""
+  },
+  {
+    "long": 13.7821444444444,
+    "lat": 45.1399138888889,
+    "name": "Gradina Marozula",
+    "url": ""
+  },
+  {
+    "long": 16.187448,
+    "lat": 45.9172,
+    "name": "Stari grad Brekunjevec (Brokunjevec)",
+    "url": ""
+  },
+  {
+    "long": 13.761988,
+    "lat": 44.9137,
+    "name": "Gradina Vela Straža",
+    "url": ""
+  },
+  {
+    "long": 13.7890112,
+    "lat": 44.8997738,
+    "name": "Gradina - Otok sv. Jerolim",
+    "url": ""
+  },
+  {
+    "long": 15.6618047,
+    "lat": 44.7644544,
+    "name": "Stari grad Prozor (iznad sela Vrela)",
+    "url": ""
+  },
+  {
+    "long": 15.455366,
+    "lat": 44.557594,
+    "name": "Utvrda Ostrovica Lička",
+    "url": ""
+  },
+  {
+    "long": 15.464413,
+    "lat": 44.258315,
+    "name": "Castel Venier",
+    "url": ""
+  },
+  {
+    "long": 15.303562,
+    "lat": 44.043519,
+    "name": "Stari S.Casan",
+    "url": ""
+  },
+  {
+    "long": 15.408998,
+    "lat": 43.966986,
+    "name": "Kaštel Turanj Toretta",
+    "url": ""
+  },
+  {
+    "long": 15.515788,
+    "lat": 44.7926,
+    "name": "Trojan grad",
+    "url": ""
+  },
+  {
+    "long": 15.247129,
+    "lat": 44.5811,
+    "name": "Stari grad Bužim",
+    "url": ""
+  },
+  {
+    "long": 15.4808307,
+    "lat": 44.1863739,
+    "name": "Gradina Podgradina",
+    "url": ""
+  },
+  {
+    "long": 16.2890553,
+    "lat": 46.1241024,
+    "name": "Lonja - Visinsko antičko naselje",
+    "url": ""
+  },
+  {
+    "long": 15.441868,
+    "lat": 43.938146,
+    "name": "Stari grad Biograd na Moru",
+    "url": ""
+  },
+  {
+    "long": 15.384923,
+    "lat": 44.112113,
+    "name": "Utvrda Zemunik",
+    "url": ""
+  },
+  {
+    "long": 15.841729,
+    "lat": 44.5712,
+    "name": "Gradina Kozja Draga",
+    "url": ""
+  },
+  {
+    "long": 14.761833,
+    "lat": 44.755559,
+    "name": "Rab - gradske kule i zidine",
+    "url": ""
+  },
+  {
+    "long": 15.825202,
+    "lat": 44.6775,
+    "name": "Kaštel Frkašić",
+    "url": ""
+  },
+  {
+    "long": 15.728958,
+    "lat": 44.6862,
+    "name": "Gradina - Grabušić",
+    "url": ""
+  },
+  {
+    "long": 16.438535,
+    "lat": 43.508162,
+    "name": "Gradski bedemi - Split",
+    "url": ""
+  },
+  {
+    "long": 16.443708,
+    "lat": 43.501671,
+    "name": "Tvrđava Bačvice",
+    "url": ""
+  },
+  {
+    "long": 16.363961,
+    "lat": 43.550695,
+    "name": "Kaštel Vitturi",
+    "url": ""
+  },
+  {
+    "long": 16.43841,
+    "lat": 43.508126,
+    "name": "Mletački kaštel - Split",
+    "url": ""
+  },
+  {
+    "long": 16.400088,
+    "lat": 43.50909,
+    "name": "Utvrda Karepića na Marjanu",
+    "url": ""
+  },
+  {
+    "long": 13.8059833333333,
+    "lat": 45.2967027777778,
+    "name": "Gradina Krč",
+    "url": ""
+  },
+  {
+    "long": 13.731966,
+    "lat": 45.119856,
+    "name": "Gradina Karaštak",
+    "url": ""
+  },
+  {
+    "long": 13.9441472222222,
+    "lat": 45.0590027777778,
+    "name": "Gradina Terli (Krnički vrh)",
+    "url": ""
+  },
+  {
+    "long": 14.0136861111112,
+    "lat": 45.0774388888889,
+    "name": "Gradina Jelensko",
+    "url": ""
+  },
+  {
+    "long": 14.016809,
+    "lat": 45.06415,
+    "name": "Stari grad Barban",
+    "url": ""
+  },
+  {
+    "long": 13.6576642,
+    "lat": 45.3645896,
+    "name": "Kašteljer Valaron (gradina kod Nove Vasi)",
+    "url": ""
+  },
+  {
+    "long": 13.6492472222222,
+    "lat": 45.3387166666667,
+    "name": "Kašteljer sv.Dionizij",
+    "url": ""
+  },
+  {
+    "long": 13.8009405,
+    "lat": 45.0610857,
+    "name": "Gradina Monkaštel",
+    "url": ""
+  },
+  {
+    "long": 16.287446,
+    "lat": 45.9536262,
+    "name": "Gradište - Novo Mjesto (Crkva sv.Petar)",
+    "url": ""
+  },
+  {
+    "long": 16.2600178,
+    "lat": 45.9061472,
+    "name": "Gradište - Sv. Helena",
+    "url": ""
+  },
+  {
+    "long": 13.608106,
+    "lat": 45.3069765,
+    "name": "Stancija Blek",
+    "url": ""
+  },
+  {
+    "long": 13.740212,
+    "lat": 45.1246,
+    "name": "Gradina Sv.Martin",
+    "url": ""
+  },
+  {
+    "long": 13.984884,
+    "lat": 44.9600785,
+    "name": "Stari grad Mutvoran",
+    "url": ""
+  },
+  {
+    "long": 16.5090689,
+    "lat": 43.5828487,
+    "name": "Gradina Koštak",
+    "url": ""
+  },
+  {
+    "long": 16.119521,
+    "lat": 44.111918,
+    "name": "Otonska gradina",
+    "url": ""
+  },
+  {
+    "long": 16.2738888888889,
+    "lat": 46.1223055555556,
+    "name": "Tvrđava na Humšćaku",
+    "url": ""
+  },
+  {
+    "long": 16.0524166666667,
+    "lat": 45.9444722222222,
+    "name": "Utvrda - Tepčina Špica",
+    "url": ""
+  },
+  {
+    "long": 16.619729,
+    "lat": 46.25143,
+    "name": "Utvrda Ludbreg",
+    "url": ""
+  },
+  {
+    "long": 16.618506,
+    "lat": 46.249,
+    "name": "Iovia Botivo - Rimska castra",
+    "url": ""
+  },
+  {
+    "long": 16.189244,
+    "lat": 44.174456,
+    "name": "Utvrda Plavno - ''Turska kaca''",
+    "url": ""
+  },
+  {
+    "long": 16.137402,
+    "lat": 44.369524,
+    "name": "Bursinar kula",
+    "url": ""
+  },
+  {
+    "long": 16.5465,
+    "lat": 46.2319,
+    "name": "Utvrda Slanje",
+    "url": ""
+  },
+  {
+    "long": 16.5379,
+    "lat": 46.2798,
+    "name": "Utvrda Hrastovljan",
+    "url": ""
+  },
+  {
+    "long": 16.267435,
+    "lat": 46.1598,
+    "name": "Utvrda Kamena Gorica",
+    "url": ""
+  },
+  {
+    "long": 15.636597,
+    "lat": 44.010696,
+    "name": "Kaštel Perušić Benkovački",
+    "url": ""
+  },
+  {
+    "long": 15.519518,
+    "lat": 44.019174,
+    "name": "Kaštel Polača",
+    "url": ""
+  },
+  {
+    "long": 15.564219,
+    "lat": 44.07639,
+    "name": "Kaštel Korlat",
+    "url": ""
+  },
+  {
+    "long": 15.823238,
+    "lat": 43.786612,
+    "name": "Zatonska Tavelića kula",
+    "url": ""
+  },
+  {
+    "long": 15.746193,
+    "lat": 43.876039,
+    "name": "Stari grad Velim",
+    "url": ""
+  },
+  {
+    "long": 15.623267,
+    "lat": 44.17471,
+    "name": "Kaštel Otišina",
+    "url": ""
+  },
+  {
+    "long": 15.859416,
+    "lat": 44.155801,
+    "name": "Kaštel Žegar",
+    "url": ""
+  },
+  {
+    "long": 18.737474,
+    "lat": 45.7515907,
+    "name": "Kaštel Kneževi Vinogradi (Donatianae?)",
+    "url": ""
+  },
+  {
+    "long": 15.137247,
+    "lat": 44.030181,
+    "name": "Utvrđeni ljetnikovac obitelji Begna",
+    "url": ""
+  },
+  {
+    "long": 14.002075,
+    "lat": 45.332937,
+    "name": "Kaštel Draguć",
+    "url": ""
+  },
+  {
+    "long": 13.982435,
+    "lat": 45.353002,
+    "name": "Kaštel Račice",
+    "url": ""
+  },
+  {
+    "long": 13.939162,
+    "lat": 45.359698,
+    "name": "Kaštel Vrh",
+    "url": ""
+  },
+  {
+    "long": 13.919663,
+    "lat": 45.379103,
+    "name": "Kaštel Sovinjak",
+    "url": ""
+  },
+  {
+    "long": 13.875353,
+    "lat": 45.264687,
+    "name": "Kaštel Terviso",
+    "url": ""
+  },
+  {
+    "long": 13.907729,
+    "lat": 45.142791,
+    "name": "Kaštel Žminj",
+    "url": ""
+  },
+  {
+    "long": 13.946522,
+    "lat": 45.09329,
+    "name": "Gradina Stari Gočan",
+    "url": ""
+  },
+  {
+    "long": 14.016967,
+    "lat": 45.122007,
+    "name": "Kaštel Sutivanac",
+    "url": ""
+  },
+  {
+    "long": 18.8456514,
+    "lat": 45.8416463,
+    "name": "Kaštel Ad Militare (Batina)",
+    "url": ""
+  },
+  {
+    "long": 14.123793,
+    "lat": 45.085867,
+    "name": "Stari grad Labin",
+    "url": ""
+  },
+  {
+    "long": 14.110589,
+    "lat": 45.34906,
+    "name": "Kaštel Lupoglav Brigido",
+    "url": ""
+  },
+  {
+    "long": 15.699838,
+    "lat": 43.641249,
+    "name": "Utvrda Gusterna",
+    "url": ""
+  },
+  {
+    "long": 16.268009,
+    "lat": 44.171942,
+    "name": "Matas gradina",
+    "url": ""
+  },
+  {
+    "long": 15.791591,
+    "lat": 44.09962,
+    "name": "Grad - utvrda Hadra",
+    "url": ""
+  },
+  {
+    "long": 15.836313,
+    "lat": 44.202369,
+    "name": "Veselinović gradina",
+    "url": ""
+  },
+  {
+    "long": 18.8080429,
+    "lat": 45.8008843,
+    "name": "Kaštel Ad Novas (Zmajevac)",
+    "url": ""
+  },
+  {
+    "long": 16.1263633,
+    "lat": 46.1375565,
+    "name": "Utvrđena crkva  sv. Jurja",
+    "url": ""
+  },
+  {
+    "long": 18.7739669,
+    "lat": 45.6632137,
+    "name": "Kaštel Albanum (Lug)",
+    "url": ""
+  },
+  {
+    "long": 16.493138,
+    "lat": 45.948,
+    "name": "Utvrda Repinec",
+    "url": ""
+  },
+  {
+    "long": 16.4958,
+    "lat": 45.9235876,
+    "name": "Utvrda Siget",
+    "url": ""
+  },
+  {
+    "long": 16.731977,
+    "lat": 43.348587,
+    "name": "Kaštel Žuvetić",
+    "url": ""
+  },
+  {
+    "long": 16.73278,
+    "lat": 43.348612,
+    "name": "Kaštel Aquilla (Akvila)",
+    "url": ""
+  },
+  {
+    "long": 16.73302,
+    "lat": 43.347791,
+    "name": "Kaštel obitelji Dešković",
+    "url": ""
+  },
+  {
+    "long": 16.732979,
+    "lat": 43.347702,
+    "name": "Kaštel obitelji Pinezić",
+    "url": ""
+  },
+  {
+    "long": 16.733476,
+    "lat": 43.347372,
+    "name": "Kula obitelji Marinović",
+    "url": ""
+  },
+  {
+    "long": 18.665807,
+    "lat": 45.2614,
+    "name": "Gradina Retkovec",
+    "url": ""
+  },
+  {
+    "long": 15.757723,
+    "lat": 44.869121,
+    "name": "Utvrda Abdić brdo",
+    "url": ""
+  },
+  {
+    "long": 16.0846666666666,
+    "lat": 45.9980833333333,
+    "name": "Stari grad Pinja",
+    "url": ""
+  },
+  {
+    "long": 15.757385,
+    "lat": 44.883924,
+    "name": "Utvrda Jassen",
+    "url": ""
+  },
+  {
+    "long": 15.73531,
+    "lat": 44.931902,
+    "name": "Utvrda Šanac",
+    "url": ""
+  },
+  {
+    "long": 15.6040832,
+    "lat": 45.2081735,
+    "name": "Utvrda Stojmerić",
+    "url": ""
+  },
+  {
+    "long": 15.76735,
+    "lat": 44.994965,
+    "name": "Utvrda Ljeskovac",
+    "url": ""
+  },
+  {
+    "long": 15.727846,
+    "lat": 45.040958,
+    "name": "Gradina",
+    "url": ""
+  },
+  {
+    "long": 16.409065,
+    "lat": 43.332998,
+    "name": "Utvrda Zaglav",
+    "url": ""
+  },
+  {
+    "long": 16.554631,
+    "lat": 43.38345,
+    "name": "Kula Leroj",
+    "url": ""
+  },
+  {
+    "long": 16.463584,
+    "lat": 43.349745,
+    "name": "Kaštel Gligo",
+    "url": ""
+  },
+  {
+    "long": 16.611002,
+    "lat": 43.356038,
+    "name": "Kaštel Cerineo-Cerinić",
+    "url": ""
+  },
+  {
+    "long": 16.611994,
+    "lat": 43.355545,
+    "name": "Kaštel Radojković",
+    "url": ""
+  },
+  {
+    "long": 16.479537,
+    "lat": 43.385793,
+    "name": "Kaštil obitelji Marijanović",
+    "url": ""
+  },
+  {
+    "long": 16.824992,
+    "lat": 43.27906,
+    "name": "Kula Vusio kod Selaca",
+    "url": ""
+  },
+  {
+    "long": 16.67087,
+    "lat": 43.280439,
+    "name": "Kaštel Vusio",
+    "url": ""
+  },
+  {
+    "long": 14.695944,
+    "lat": 44.374587,
+    "name": "Ostaci kaštela kule na Silbi",
+    "url": ""
+  },
+  {
+    "long": 16.06375,
+    "lat": 46.0535,
+    "name": "Kaštel u Lovrečanu",
+    "url": ""
+  },
+  {
+    "long": 16.1215277777778,
+    "lat": 46.1128333333333,
+    "name": "Kaštel Ščrbinec",
+    "url": ""
+  },
+  {
+    "long": 16.630062,
+    "lat": 43.375231,
+    "name": "Utvrđena crkva Sv. Ivana",
+    "url": ""
+  },
+  {
+    "long": 16.60621,
+    "lat": 43.376746,
+    "name": "Kaštel Cerineo",
+    "url": ""
+  },
+  {
+    "long": 16.623954,
+    "lat": 43.350364,
+    "name": "Kaštel Gospodnetić",
+    "url": ""
+  },
+  {
+    "long": 16.448778,
+    "lat": 43.326989,
+    "name": "Kaštel Angelšćina",
+    "url": ""
+  },
+  {
+    "long": 16.838375,
+    "lat": 43.334261,
+    "name": "Kaštel Povlja",
+    "url": ""
+  },
+  {
+    "long": 16.656531,
+    "lat": 43.261475,
+    "name": "Bolski kaštil Vusio",
+    "url": ""
+  },
+  {
+    "long": 16.637943,
+    "lat": 43.275078,
+    "name": "Utvrda Koštilo",
+    "url": ""
+  },
+  {
+    "long": 14.779595,
+    "lat": 44.377809,
+    "name": "Kaštel Olib",
+    "url": ""
+  },
+  {
+    "long": 17.3732881,
+    "lat": 42.7764379,
+    "name": "Gradina - Veliki Gradac",
+    "url": ""
+  },
+  {
+    "long": 15.920195,
+    "lat": 43.584979,
+    "name": "Utvrđeni Primošten",
+    "url": ""
+  },
+  {
+    "long": 16.2326109,
+    "lat": 45.9185348,
+    "name": "Kaštel Bukovec",
+    "url": ""
+  },
+  {
+    "long": 15.587346,
+    "lat": 45.41653,
+    "name": "Stari grad Velemerić",
+    "url": ""
+  },
+  {
+    "long": 18.9864117,
+    "lat": 45.4841225,
+    "name": "Kaštel Teutoburgium (Dalj)",
+    "url": ""
+  },
+  {
+    "long": 19.0966,
+    "lat": 45.2961258,
+    "name": "Kaštel Cornacum (Sotin)",
+    "url": ""
+  },
+  {
+    "long": 19.3752331,
+    "lat": 45.2220448,
+    "name": "Kaštel Cuccium (Ilok)",
+    "url": ""
+  },
+  {
+    "long": 18.4631091,
+    "lat": 45.2868405,
+    "name": "Gradina Bodbrđe - Budrovci",
+    "url": ""
+  },
+  {
+    "long": 18.3235914,
+    "lat": 45.2559612,
+    "name": "Crkva Uznesenja BDM - Dragotin",
+    "url": ""
+  },
+  {
+    "long": 15.76747,
+    "lat": 45.421036,
+    "name": "Gradina",
+    "url": ""
+  },
+  {
+    "long": 15.796314,
+    "lat": 45.450037,
+    "name": "Gradina - Sjeničak",
+    "url": ""
+  },
+  {
+    "long": 16.2107777777778,
+    "lat": 46.3672777777778,
+    "name": "Utvrda Komar",
+    "url": ""
+  },
+  {
+    "long": 17.310244,
+    "lat": 45.5847,
+    "name": "Petrov-grad",
+    "url": ""
+  },
+  {
+    "long": 16.7252147,
+    "lat": 46.2400286,
+    "name": "Tvrđava Lonka",
+    "url": ""
+  },
+  {
+    "long": 17.3599484,
+    "lat": 42.7692697,
+    "name": "Utvrđeni Benediktinski samostan sv. Marije na Mljetu",
+    "url": ""
+  },
+  {
+    "long": 17.3658979,
+    "lat": 42.7749677,
+    "name": "Prapovijesna utvrda-Mali Sladin gradac",
+    "url": ""
+  },
+  {
+    "long": 16.0332818,
+    "lat": 44.0529355,
+    "name": "Gradina na Radučkoj glavici",
+    "url": ""
+  },
+  {
+    "long": 16.0848159,
+    "lat": 44.0117337,
+    "name": "Gradina nad Gredom",
+    "url": ""
+  },
+  {
+    "long": 16.0663676,
+    "lat": 44.0143262,
+    "name": "Gradina u Carigradu",
+    "url": ""
+  },
+  {
+    "long": 16.425573,
+    "lat": 43.545705,
+    "name": "Nadbiskupski kaštel u K.Sućurcu",
+    "url": ""
+  },
+  {
+    "long": 16.386356,
+    "lat": 43.54888,
+    "name": "Kula Cambi u K. Kambelovcu",
+    "url": ""
+  },
+  {
+    "long": 16.359191,
+    "lat": 43.551595,
+    "name": "Kaštel Rušinac",
+    "url": ""
+  },
+  {
+    "long": 15.392544,
+    "lat": 44.0321,
+    "name": "Gradina Vrčevo",
+    "url": ""
+  },
+  {
+    "long": 16.2458138,
+    "lat": 45.2936186,
+    "name": "Utvrda Veliki Gradac",
+    "url": ""
+  },
+  {
+    "long": 16.2302291,
+    "lat": 46.1569994,
+    "name": "Utvrda Gotalovec",
+    "url": ""
+  },
+  {
+    "long": 17.188661,
+    "lat": 45.8850762,
+    "name": "Gradina Šanac",
+    "url": ""
+  },
+  {
+    "long": 17.1500015,
+    "lat": 45.8969975,
+    "name": "Gradina Babičanka",
+    "url": ""
+  },
+  {
+    "long": 17.1743774,
+    "lat": 45.8919796,
+    "name": "Gradina Črešnjevica",
+    "url": ""
+  },
+  {
+    "long": 16.0771608,
+    "lat": 46.2729805,
+    "name": "Utvrda Klenovnik",
+    "url": ""
+  },
+  {
+    "long": 16.5078792,
+    "lat": 43.5337572,
+    "name": "Gradina Sutikva",
+    "url": ""
+  },
+  {
+    "long": 16.4626157,
+    "lat": 43.5316404,
+    "name": "Gradina Vranjic",
+    "url": ""
+  },
+  {
+    "long": 15.6976802,
+    "lat": 46.1663177,
+    "name": "Utvrđena crkva Majke Božje Vinagorske",
+    "url": ""
+  },
+  {
+    "long": 17.1376553,
+    "lat": 43.1974743,
+    "name": "Zalina kula - Igrane",
+    "url": ""
+  },
+  {
+    "long": 17.3525673,
+    "lat": 43.1067638,
+    "name": "Kula - Gradac",
+    "url": ""
+  },
+  {
+    "long": 16.9858128,
+    "lat": 43.333544,
+    "name": "Kačića dvori",
+    "url": ""
+  },
+  {
+    "long": 17.0105642,
+    "lat": 43.3069075,
+    "name": "Kulica - Makarska",
+    "url": ""
+  },
+  {
+    "long": 14.6034479,
+    "lat": 45.1314283,
+    "name": "Stari grad Dobrinj",
+    "url": ""
+  },
+  {
+    "long": 14.6114463,
+    "lat": 45.2201116,
+    "name": "Lokvišće u Jadranovu",
+    "url": ""
+  },
+  {
+    "long": 15.22932,
+    "lat": 44.87012,
+    "name": "Utvrda Otočac (wasserburg)",
+    "url": ""
+  },
+  {
+    "long": 14.719766,
+    "lat": 45.0587,
+    "name": "Gradina Graca",
+    "url": ""
+  },
+  {
+    "long": 15.246387,
+    "lat": 44.866,
+    "name": "Gradina Umac",
+    "url": ""
+  },
+  {
+    "long": 15.2403438,
+    "lat": 44.856675,
+    "name": "Gradina Vinica",
+    "url": ""
+  },
+  {
+    "long": 15.245985,
+    "lat": 44.8951,
+    "name": "Gradina Zorišnjak",
+    "url": ""
+  },
+  {
+    "long": 15.425634,
+    "lat": 44.6739,
+    "name": "Gradina Mali Čardak",
+    "url": ""
+  },
+  {
+    "long": 15.610357,
+    "lat": 44.5894,
+    "name": "Srednjovjekovni Lapac grad",
+    "url": ""
+  },
+  {
+    "long": 16.079643,
+    "lat": 44.4636,
+    "name": "Gradina Medići",
+    "url": ""
+  },
+  {
+    "long": 15.811144,
+    "lat": 44.524616,
+    "name": "Utvrda Visuć",
+    "url": ""
+  },
+  {
+    "long": 15.818391,
+    "lat": 44.519589,
+    "name": "Gradina Kardašica",
+    "url": ""
+  },
+  {
+    "long": 15.695365,
+    "lat": 44.5335,
+    "name": "Rebička gradina",
+    "url": ""
+  },
+  {
+    "long": 15.961439,
+    "lat": 44.550321,
+    "name": "Utvrda Lapac",
+    "url": ""
+  },
+  {
+    "long": 16.5572548,
+    "lat": 46.1026822,
+    "name": "Utvrda Donja Glogovnica",
+    "url": ""
+  },
+  {
+    "long": 16.549105,
+    "lat": 46.1413,
+    "name": "Utvrda Mihalj",
+    "url": ""
+  },
+  {
+    "long": 15.914318,
+    "lat": 44.534997,
+    "name": "Gradina na Kuku",
+    "url": ""
+  },
+  {
+    "long": 15.746294,
+    "lat": 44.5326,
+    "name": "Gradina",
+    "url": ""
+  },
+  {
+    "long": 16.246767,
+    "lat": 45.9082,
+    "name": "Gradišće nad Donjom Zelinom",
+    "url": ""
+  },
+  {
+    "long": 15.962311,
+    "lat": 46.0704,
+    "name": "Stari grad Kebel (Cubul)",
+    "url": ""
+  },
+  {
+    "long": 16.0349214,
+    "lat": 46.1359841,
+    "name": "Utvrda Velika",
+    "url": ""
+  },
+  {
+    "long": 15.37808,
+    "lat": 44.54459,
+    "name": "Kula age Senkovića",
+    "url": ""
+  },
+  {
+    "long": 15.46301,
+    "lat": 44.48586,
+    "name": "Stari grad Ribnik (Crkvina)",
+    "url": ""
+  },
+  {
+    "long": 15.500696,
+    "lat": 44.4494,
+    "name": "Stari grad Medak",
+    "url": ""
+  },
+  {
+    "long": 15.667471,
+    "lat": 44.3506,
+    "name": "Stari grad Lovinac",
+    "url": ""
+  },
+  {
+    "long": 15.677904,
+    "lat": 44.3405,
+    "name": "Gradina Vrkljanska",
+    "url": ""
+  },
+  {
+    "long": 15.647782,
+    "lat": 44.3594,
+    "name": "Gradina Rukavinska",
+    "url": ""
+  },
+  {
+    "long": 15.705851,
+    "lat": 44.4134,
+    "name": "Stari grad Budak",
+    "url": ""
+  },
+  {
+    "long": 15.558841,
+    "lat": 44.4316,
+    "name": "Stari grad Zir (Sir)",
+    "url": ""
+  },
+  {
+    "long": 15.574566,
+    "lat": 44.4932,
+    "name": "Stari grad Mogorović (Mogorić)",
+    "url": ""
+  },
+  {
+    "long": 15.523202,
+    "lat": 44.4225,
+    "name": "Stari grad Kukljić",
+    "url": ""
+  },
+  {
+    "long": 15.293114,
+    "lat": 44.5707,
+    "name": "Stari grad Krčmar",
+    "url": ""
+  },
+  {
+    "long": 17.9341272,
+    "lat": 45.5166158,
+    "name": "Gradište Crkvari",
+    "url": ""
+  },
+  {
+    "long": 16.877532,
+    "lat": 46.2281843,
+    "name": "Gradište Gradić",
+    "url": ""
+  },
+  {
+    "long": 14.9831996,
+    "lat": 45.3770969,
+    "name": "Kaštel Stara Sušica",
+    "url": ""
+  },
+  {
+    "long": 15.154472,
+    "lat": 44.943611,
+    "name": "Stari grad Brlog",
+    "url": ""
+  },
+  {
+    "long": 17.745508,
+    "lat": 45.806452,
+    "name": "Utvrda Sopje",
+    "url": ""
+  },
+  {
+    "long": 17.255257,
+    "lat": 45.605417,
+    "name": "Stari dvor Kartazovatz Kristalovac",
+    "url": ""
+  },
+  {
+    "long": 17.751422,
+    "lat": 45.456095,
+    "name": "Pogana gradina",
+    "url": ""
+  },
+  {
+    "long": 17.769741,
+    "lat": 45.662204,
+    "name": "Utvrda Bakocza",
+    "url": ""
+  },
+  {
+    "long": 17.792706,
+    "lat": 45.4192,
+    "name": "Veteri Castra",
+    "url": ""
+  },
+  {
+    "long": 18.8631821,
+    "lat": 45.2101011,
+    "name": "Gradina kod Privlake",
+    "url": ""
+  },
+  {
+    "long": 17.948954,
+    "lat": 42.689765,
+    "name": "Utvrda Sutvrač",
+    "url": ""
+  },
+  {
+    "long": 17.806956,
+    "lat": 45.605707,
+    "name": "Utvrda Mikleuš",
+    "url": ""
+  },
+  {
+    "long": 17.984274,
+    "lat": 45.786792,
+    "name": "Utvrda Moslow",
+    "url": ""
+  },
+  {
+    "long": 18.216641,
+    "lat": 45.457102,
+    "name": "Castrum Pogarach",
+    "url": ""
+  },
+  {
+    "long": 18.70602,
+    "lat": 45.382977,
+    "name": "Rudera arcis Cselie",
+    "url": ""
+  },
+  {
+    "long": 19.05636,
+    "lat": 45.234149,
+    "name": "Castellum Csaak",
+    "url": ""
+  },
+  {
+    "long": 17.884311,
+    "lat": 45.428755,
+    "name": "Utvrda Gotho",
+    "url": ""
+  },
+  {
+    "long": 15.9848928,
+    "lat": 46.2300398,
+    "name": "Crkva Uznesenja Blažene Djevice Marije",
+    "url": ""
+  },
+  {
+    "long": 16.1196899,
+    "lat": 46.1316199,
+    "name": "Crkva sv. Marije Snježne",
+    "url": ""
+  },
+  {
+    "long": 18.364896,
+    "lat": 45.453014,
+    "name": "Utvrda Krndija",
+    "url": ""
+  },
+  {
+    "long": 18.843354,
+    "lat": 45.854488,
+    "name": "Utvrda Koszeg, Castrum Kwseg",
+    "url": ""
+  },
+  {
+    "long": 18.747934,
+    "lat": 45.606842,
+    "name": "Utvrda Eugena Savojskog u Bilju",
+    "url": ""
+  },
+  {
+    "long": 19.060986,
+    "lat": 45.336003,
+    "name": "Castrum Vicahdal penes Danubium (1408.)",
+    "url": ""
+  },
+  {
+    "long": 18.000714,
+    "lat": 42.677959,
+    "name": "Kaštio: nad lukom Donje čelo",
+    "url": ""
+  },
+  {
+    "long": 18.008792,
+    "lat": 42.678046,
+    "name": "Kula u Donjem čelu",
+    "url": ""
+  },
+  {
+    "long": 18.011445,
+    "lat": 42.675512,
+    "name": "Kula Mala toreta",
+    "url": ""
+  },
+  {
+    "long": 17.902537,
+    "lat": 42.70964,
+    "name": "Crkva Duha Svetoga - vojna utvrda",
+    "url": ""
+  },
+  {
+    "long": 17.908981,
+    "lat": 42.710859,
+    "name": "Utvrda  u Suđurđu",
+    "url": ""
+  },
+  {
+    "long": 18.369344,
+    "lat": 45.399871,
+    "name": "Utvrđena palača i grad Lovre Iločkog",
+    "url": ""
+  },
+  {
+    "long": 19.299183,
+    "lat": 45.232908,
+    "name": "Avarska utvrda položaj ''Gradac",
+    "url": ""
+  },
+  {
+    "long": 17.899625,
+    "lat": 42.716012,
+    "name": "Utvrđeni dvorac kraj Suđurđa",
+    "url": ""
+  },
+  {
+    "long": 18.910349,
+    "lat": 45.414361,
+    "name": "Kaštel Leve",
+    "url": ""
+  },
+  {
+    "long": 17.748765,
+    "lat": 45.218197,
+    "name": "Crkva utvrda Sv. Dimitrija",
+    "url": ""
+  },
+  {
+    "long": 18.590915,
+    "lat": 45.284694,
+    "name": "Templarska tvrđavica - crkva Sv. Bartol",
+    "url": ""
+  },
+  {
+    "long": 15.547603,
+    "lat": 45.676396,
+    "name": "Grkograd",
+    "url": ""
+  },
+  {
+    "long": 18.368684,
+    "lat": 45.398458,
+    "name": "Kula Jaić Bega u Gorjanima",
+    "url": ""
+  },
+  {
+    "long": 17.1385213,
+    "lat": 45.342809,
+    "name": "Čaradčić - pozicija obramb.uporišta",
+    "url": ""
+  },
+  {
+    "long": 16.0866928,
+    "lat": 45.4459745,
+    "name": "Utvrda Brkiševina",
+    "url": ""
+  },
+  {
+    "long": 16.2311883,
+    "lat": 45.5038243,
+    "name": "Kaštel Letovanić",
+    "url": ""
+  },
+  {
+    "long": 16.106349,
+    "lat": 44.405954,
+    "name": "Kaštel iznad vrela Une",
+    "url": ""
+  },
+  {
+    "long": 18.679783,
+    "lat": 45.424772,
+    "name": "Nestala utvrda u Laslovu (Szentlászló)",
+    "url": ""
+  },
+  {
+    "long": 18.708475,
+    "lat": 45.151606,
+    "name": "Utvrda Gradište",
+    "url": ""
+  },
+  {
+    "long": 15.96155,
+    "lat": 43.52316,
+    "name": "Gradina u Rogoznici",
+    "url": ""
+  },
+  {
+    "long": 16.00896,
+    "lat": 43.52929,
+    "name": "Gradina Kruglica",
+    "url": ""
+  },
+  {
+    "long": 16.07006,
+    "lat": 43.56845,
+    "name": "Gradina Kosmač",
+    "url": ""
+  },
+  {
+    "long": 16.06732,
+    "lat": 43.62326,
+    "name": "Gradina Police",
+    "url": ""
+  },
+  {
+    "long": 16.10905,
+    "lat": 43.61123,
+    "name": "Gradina Kurlje?",
+    "url": ""
+  },
+  {
+    "long": 16.08883,
+    "lat": 43.60092,
+    "name": "Gradina Ripište",
+    "url": ""
+  },
+  {
+    "long": 16.62707,
+    "lat": 43.63404,
+    "name": "Sv. Ivan de Tyro (ponegdje se spominje kao kasnoantičko utvrđenje)",
+    "url": ""
+  },
+  {
+    "long": 16.01467,
+    "lat": 43.62285,
+    "name": "Gradina Privija?",
+    "url": ""
+  },
+  {
+    "long": 16.05505,
+    "lat": 43.54389,
+    "name": "Gradina Veliki Radulj",
+    "url": ""
+  },
+  {
+    "long": 16.05147,
+    "lat": 43.55562,
+    "name": "Gradina Pazdelj",
+    "url": ""
+  },
+  {
+    "long": 16.05402,
+    "lat": 43.52589,
+    "name": "Gradina Sv. Juraj",
+    "url": ""
+  },
+  {
+    "long": 16.09928,
+    "lat": 43.52468,
+    "name": "Gradina Pipoganj",
+    "url": ""
+  },
+  {
+    "long": 16.00564,
+    "lat": 43.59841,
+    "name": "Gradina Mali Gnoinac",
+    "url": ""
+  },
+  {
+    "long": 15.98002,
+    "lat": 43.62431,
+    "name": "Gradina Mali Jelinjak",
+    "url": ""
+  },
+  {
+    "long": 16.0288,
+    "lat": 43.6113,
+    "name": "Gradina Ograđenik",
+    "url": ""
+  },
+  {
+    "long": 17.0826089,
+    "lat": 42.9984807,
+    "name": "Gradina Nakovana (ponegdje Nakovanj)",
+    "url": ""
+  },
+  {
+    "long": 17.0471072,
+    "lat": 45.2068222,
+    "name": "Kaštel Jablanac",
+    "url": ""
+  },
+  {
+    "long": 16.908624,
+    "lat": 45.269724,
+    "name": "Utvrda Jasenovac",
+    "url": ""
+  },
+  {
+    "long": 15.96393,
+    "lat": 43.61595,
+    "name": "Gradina Okrugljak (ponegdje Okrubljak)",
+    "url": ""
+  },
+  {
+    "long": 18.967846,
+    "lat": 45.529676,
+    "name": "Utvrda ''Váraljavára''",
+    "url": ""
+  },
+  {
+    "long": 16.330798,
+    "lat": 43.54653,
+    "name": "Kula Nehaj - Kaštel Štafilić",
+    "url": ""
+  },
+  {
+    "long": 16.335433,
+    "lat": 43.547598,
+    "name": "Kaštel Štafileo",
+    "url": ""
+  },
+  {
+    "long": 16.33921,
+    "lat": 43.547664,
+    "name": "Kaštel Koriolana Cipika",
+    "url": ""
+  },
+  {
+    "long": 16.34466,
+    "lat": 43.550232,
+    "name": "Kaštel Cipiko Stari",
+    "url": ""
+  },
+  {
+    "long": 16.334974,
+    "lat": 43.548412,
+    "name": "Kaštel Ferro",
+    "url": ""
+  },
+  {
+    "long": 16.900388,
+    "lat": 42.76839,
+    "name": "Kašćel",
+    "url": ""
+  },
+  {
+    "long": 15.189681,
+    "lat": 44.439933,
+    "name": "Gradina (castrum) iznad Lukovog Šugarja",
+    "url": ""
+  },
+  {
+    "long": 16.285606,
+    "lat": 43.391422,
+    "name": "Kaštel Slavić u Grohotama",
+    "url": ""
+  },
+  {
+    "long": 16.20672,
+    "lat": 43.397624,
+    "name": "Utvrđeni dvorac Marchi",
+    "url": ""
+  },
+  {
+    "long": 16.286485,
+    "lat": 43.392511,
+    "name": "Kula Zabota",
+    "url": ""
+  },
+  {
+    "long": 16.285741,
+    "lat": 43.392828,
+    "name": "Kaštel Martinis",
+    "url": ""
+  },
+  {
+    "long": 16.345982,
+    "lat": 43.358124,
+    "name": "Ostaci utvrde na lokalitetu Starine",
+    "url": ""
+  },
+  {
+    "long": 16.297909,
+    "lat": 43.395856,
+    "name": "Kaštel Barutana",
+    "url": ""
+  },
+  {
+    "long": 16.352692,
+    "lat": 43.369608,
+    "name": "Kaštel obitelji Cindro",
+    "url": ""
+  },
+  {
+    "long": 15.60506,
+    "lat": 43.823024,
+    "name": "Hrelić kula",
+    "url": ""
+  },
+  {
+    "long": 15.64154,
+    "lat": 43.798826,
+    "name": "Nestale zidine i kula u Tisnom",
+    "url": ""
+  },
+  {
+    "long": 16.259241,
+    "lat": 42.392411,
+    "name": "Rimska utvrda na Palagruži",
+    "url": ""
+  },
+  {
+    "long": 16.228234,
+    "lat": 43.517415,
+    "name": "Kaštel Rotundo u Segetu Donjem",
+    "url": ""
+  },
+  {
+    "long": 15.966217,
+    "lat": 43.505574,
+    "name": "Napoleonova utvrda Movar",
+    "url": ""
+  },
+  {
+    "long": 15.517743,
+    "lat": 45.510464,
+    "name": "Utvrda Budim",
+    "url": ""
+  },
+  {
+    "long": 16.247084,
+    "lat": 45.4987711,
+    "name": "Utvrda Žažina",
+    "url": ""
+  },
+  {
+    "long": 15.869021,
+    "lat": 44.379902,
+    "name": "Gradina Vršić (Vodena glava)",
+    "url": ""
+  },
+  {
+    "long": 15.960021,
+    "lat": 44.450191,
+    "name": "Gradina iznad Mazina",
+    "url": ""
+  },
+  {
+    "long": 17.184575,
+    "lat": 42.920741,
+    "name": "Kula Knežina",
+    "url": ""
+  },
+  {
+    "long": 16.501778,
+    "lat": 42.762025,
+    "name": "Ostaci bizantske utvrde iz doba Justinijana",
+    "url": ""
+  },
+  {
+    "long": 16.531494,
+    "lat": 43.683045,
+    "name": "Utvrda Neorić",
+    "url": ""
+  },
+  {
+    "long": 16.212274,
+    "lat": 43.611363,
+    "name": "Kula Znojilo",
+    "url": ""
+  },
+  {
+    "long": 16.488477,
+    "lat": 43.705658,
+    "name": "Ilirski Andetrium",
+    "url": ""
+  },
+  {
+    "long": 16.391779,
+    "lat": 43.731795,
+    "name": "Srednjovjekovni castrum Brečevo",
+    "url": ""
+  },
+  {
+    "long": 17.377227,
+    "lat": 42.786175,
+    "name": "Fortifikacijska cjelina u Polačama",
+    "url": ""
+  },
+  {
+    "long": 16.235513,
+    "lat": 43.520745,
+    "name": "Kula Statilić",
+    "url": ""
+  },
+  {
+    "long": 16.260267,
+    "lat": 43.530204,
+    "name": "Kula Jakova Kažotića",
+    "url": ""
+  },
+  {
+    "long": 15.471246,
+    "lat": 44.023857,
+    "name": "Kaštel Tinj",
+    "url": ""
+  },
+  {
+    "long": 15.847763,
+    "lat": 44.03787,
+    "name": "Turska kula u Bjelini",
+    "url": ""
+  },
+  {
+    "long": 15.668824,
+    "lat": 43.815502,
+    "name": "Pirovac-Zlosela",
+    "url": ""
+  },
+  {
+    "long": 15.744562,
+    "lat": 43.753478,
+    "name": "Utvrđeni Tribunj",
+    "url": ""
+  },
+  {
+    "long": 15.742255,
+    "lat": 43.755539,
+    "name": "Utvrda Jurjevgrad",
+    "url": ""
+  },
+  {
+    "long": 18.748542,
+    "lat": 45.260281,
+    "name": "Srednjovjekova utvrda stražarnica Hrapkovo",
+    "url": ""
+  },
+  {
+    "long": 18.913711,
+    "lat": 45.190318,
+    "name": "Turska gradina",
+    "url": ""
+  },
+  {
+    "long": 18.789923,
+    "lat": 45.286039,
+    "name": "Utvrđeno keltsko naselje na Dirovom brijegu",
+    "url": ""
+  },
+  {
+    "long": 18.559103,
+    "lat": 45.284658,
+    "name": "Utvrđeno keltsko naselje Damića gradina u Starim Mikanovcima",
+    "url": ""
+  },
+  {
+    "long": 18.774148,
+    "lat": 45.664336,
+    "name": "Rimski castrum ''Donatiana'' u Lugu",
+    "url": ""
+  },
+  {
+    "long": 16.2882845,
+    "lat": 45.8158152,
+    "name": "Castellum Bosiako",
+    "url": ""
+  },
+  {
+    "long": 16.510755,
+    "lat": 43.567439,
+    "name": "Gradina iznad Odža",
+    "url": ""
+  },
+  {
+    "long": 17.1010479,
+    "lat": 45.3389429,
+    "name": "Mogući položaj utvrde plemića Svetačkih",
+    "url": ""
+  },
+  {
+    "long": 13.7859506,
+    "lat": 45.0425618,
+    "name": "Stari grad Bale",
+    "url": ""
+  },
+  {
+    "long": 13.6559844,
+    "lat": 45.4103064,
+    "name": "Utvrda Buje (Castrum Veneris)",
+    "url": ""
+  },
+  {
+    "long": 13.9019587,
+    "lat": 45.3025282,
+    "name": "Stari grad Kašćerga",
+    "url": ""
+  },
+  {
+    "long": 15.777222,
+    "lat": 44.5308364,
+    "name": "Castrum Corbavia (Krbavski grad)",
+    "url": ""
+  },
+  {
+    "long": 13.6541283,
+    "lat": 45.4500007,
+    "name": "Stari grad Kaštel",
+    "url": ""
+  },
+  {
+    "long": 13.757953,
+    "lat": 45.3659323,
+    "name": "Stari grad Kostanjica",
+    "url": ""
+  },
+  {
+    "long": 14.0390077,
+    "lat": 45.1215223,
+    "name": "Gradina Kočur",
+    "url": ""
+  },
+  {
+    "long": 14.1379552,
+    "lat": 45.0993429,
+    "name": "Gradina Kunci",
+    "url": ""
+  },
+  {
+    "long": 17.789491,
+    "lat": 45.2168,
+    "name": "Utvrda Podbučje",
+    "url": ""
+  },
+  {
+    "long": 17.4179,
+    "lat": 45.461,
+    "name": "Grad Buča (Grad Bucia)",
+    "url": ""
+  },
+  {
+    "long": 17.8123653,
+    "lat": 45.4474719,
+    "name": "Utvrda Óvár",
+    "url": ""
+  },
+  {
+    "long": 17.7932517,
+    "lat": 45.1543531,
+    "name": "Gradina Kosovac",
+    "url": ""
+  },
+  {
+    "long": 17.8212661,
+    "lat": 45.1569301,
+    "name": "Gradište u Mrsinjskom Lugu",
+    "url": ""
+  },
+  {
+    "long": 18.4218044,
+    "lat": 45.1116673,
+    "name": "Utvrda Arky",
+    "url": ""
+  },
+  {
+    "long": 18.3524895,
+    "lat": 45.1067272,
+    "name": "Gradina Novi Grad",
+    "url": ""
+  },
+  {
+    "long": 17.7212289,
+    "lat": 45.1901955,
+    "name": "Utvrda Vratna",
+    "url": ""
+  },
+  {
+    "long": 17.9039435,
+    "lat": 45.2587158,
+    "name": "Utvrda Berchyn",
+    "url": ""
+  },
+  {
+    "long": 17.9002564,
+    "lat": 45.2429876,
+    "name": "Gradina - Čelikovići",
+    "url": ""
+  },
+  {
+    "long": 17.8606688,
+    "lat": 45.1936144,
+    "name": "Gradina - Gornji Andrijevci",
+    "url": ""
+  },
+  {
+    "long": 17.8774367,
+    "lat": 45.2202481,
+    "name": "Koldžijin grad",
+    "url": ""
+  },
+  {
+    "long": 17.8124099,
+    "lat": 45.1948092,
+    "name": "Gradina iznad Baruge Dola",
+    "url": ""
+  },
+  {
+    "long": 17.8283275,
+    "lat": 45.2050189,
+    "name": "Gradina Turski grad - Slatinsko brdo",
+    "url": ""
+  },
+  {
+    "long": 17.833708,
+    "lat": 45.2071538,
+    "name": "Sirađe - Sjeverna utvrda",
+    "url": ""
+  },
+  {
+    "long": 17.8390166,
+    "lat": 45.2017373,
+    "name": "Sirađe - Južna utvrda",
+    "url": ""
+  },
+  {
+    "long": 14.605996,
+    "lat": 45.1639223,
+    "name": "Utvrda na poluotoku sv.Petar",
+    "url": ""
+  },
+  {
+    "long": 17.220838,
+    "lat": 45.8880394,
+    "name": "Doroszlóbakva - Turnašica",
+    "url": ""
+  },
+  {
+    "long": 16.1825624,
+    "lat": 46.0150086,
+    "name": "Stari grad Žitomir",
+    "url": ""
+  },
+  {
+    "long": 16.276528,
+    "lat": 45.1528014,
+    "name": "Utvrda Gornja Stupnica",
+    "url": ""
+  },
+  {
+    "long": 16.701721,
+    "lat": 46.1745,
+    "name": "Opojgrad",
+    "url": ""
+  },
+  {
+    "long": 17.250042,
+    "lat": 45.850296,
+    "name": "Bokoa (Bakwa)",
+    "url": ""
+  },
+  {
+    "long": 15.661312,
+    "lat": 44.457294,
+    "name": "Batinića kula",
+    "url": ""
+  },
+  {
+    "long": 16.102022,
+    "lat": 44.483292,
+    "name": "Dabina Strana Gradina",
+    "url": ""
+  },
+  {
+    "long": 17.0070505,
+    "lat": 45.5851669,
+    "name": "Turski grad - Sokolovac",
+    "url": ""
+  },
+  {
+    "long": 15.6642999,
+    "lat": 44.6171354,
+    "name": "Gradina Pisać",
+    "url": ""
+  },
+  {
+    "long": 15.5642045,
+    "lat": 45.5091364,
+    "name": "Utvrda Gradac",
+    "url": ""
+  },
+  {
+    "long": 16.1638825,
+    "lat": 45.7094138,
+    "name": "Utvrda  Želin",
+    "url": ""
+  },
+  {
+    "long": 14.6407018,
+    "lat": 45.2333177,
+    "name": "Gradina Gračišće",
+    "url": ""
+  },
+  {
+    "long": 16.138512,
+    "lat": 44.313637,
+    "name": "Kunić grad - Kunjevo",
+    "url": ""
+  },
+  {
+    "long": 15.683735,
+    "lat": 44.560951,
+    "name": "Gradina Mekinjar",
+    "url": ""
+  },
+  {
+    "long": 15.952853,
+    "lat": 44.670624,
+    "name": "Nebljuška gradina",
+    "url": ""
+  },
+  {
+    "long": 15.986112,
+    "lat": 44.639744,
+    "name": "Gradina Gornji/Donji Štrbci (Nebljuh grad?)",
+    "url": ""
+  },
+  {
+    "long": 17.083038,
+    "lat": 45.839966,
+    "name": "Gradina Bačkovica",
+    "url": ""
+  },
+  {
+    "long": 16.916197,
+    "lat": 46.048828,
+    "name": "Poljan grad",
+    "url": ""
+  },
+  {
+    "long": 15.500488,
+    "lat": 44.622833,
+    "name": "Široka Kula Razvala",
+    "url": ""
+  },
+  {
+    "long": 17.314669,
+    "lat": 45.824234,
+    "name": "Turski grad - Golo Brdo",
+    "url": ""
+  },
+  {
+    "long": 17.008295,
+    "lat": 45.906075,
+    "name": "Gradina Mušina",
+    "url": ""
+  },
+  {
+    "long": 16.7325425,
+    "lat": 43.348742,
+    "name": "Kula Davidović",
+    "url": ""
+  },
+  {
+    "long": 16.7314777,
+    "lat": 43.348034,
+    "name": "Kula Prodić",
+    "url": ""
+  },
+  {
+    "long": 16.7329153,
+    "lat": 43.3475503,
+    "name": "Kula Pinezić",
+    "url": ""
+  },
+  {
+    "long": 16.7343155,
+    "lat": 43.3476849,
+    "name": "Kula Orlandini",
+    "url": ""
+  },
+  {
+    "long": 16.0104568,
+    "lat": 45.5573022,
+    "name": "Stari grad Hruševec",
+    "url": ""
+  },
+  {
+    "long": 15.8709526,
+    "lat": 45.5313649,
+    "name": "Kaštel Sredičko",
+    "url": ""
+  },
+  {
+    "long": 15.2499247,
+    "lat": 45.2323114,
+    "name": "Utvrda Otok Oštarijski",
+    "url": ""
+  },
+  {
+    "long": 15.3389679,
+    "lat": 45.3700197,
+    "name": "Grad Levund",
+    "url": ""
+  },
+  {
+    "long": 15.2685534,
+    "lat": 45.2837537,
+    "name": "Gradina na Gojačkoj glavici",
+    "url": ""
+  },
+  {
+    "long": 15.1926192,
+    "lat": 45.2811611,
+    "name": "Gradina Malo Gradišće",
+    "url": ""
+  },
+  {
+    "long": 15.2363634,
+    "lat": 45.3784827,
+    "name": "Gradina Čuvidinka",
+    "url": ""
+  },
+  {
+    "long": 15.1784095,
+    "lat": 45.2601957,
+    "name": "Gradina Gračac",
+    "url": ""
+  },
+  {
+    "long": 15.2760011,
+    "lat": 45.3243812,
+    "name": "Gradina Trsište",
+    "url": ""
+  },
+  {
+    "long": 15.2860007,
+    "lat": 45.3180929,
+    "name": "Gradina Rebinka",
+    "url": ""
+  },
+  {
+    "long": 15.2505577,
+    "lat": 45.1827477,
+    "name": "Utvrda u zaseoku Grdići",
+    "url": ""
+  },
+  {
+    "long": 15.9714603,
+    "lat": 45.2967016,
+    "name": "Gradina Nikolino brdo",
+    "url": ""
+  },
+  {
+    "long": 15.9684885,
+    "lat": 45.2922336,
+    "name": "Cistercitska opatija sv. Marija Topusko",
+    "url": ""
+  },
+  {
+    "long": 15.251947,
+    "lat": 45.4564206,
+    "name": "Utvrda u Pribanjcima",
+    "url": ""
+  },
+  {
+    "long": 16.3387355,
+    "lat": 45.7970414,
+    "name": "Utvrde oko Lupoglava",
+    "url": ""
+  },
+  {
+    "long": 15.7252961,
+    "lat": 45.1438198,
+    "name": "Utvrda - Mala Crkvina",
+    "url": ""
+  },
+  {
+    "long": 16.193924,
+    "lat": 45.427696,
+    "name": "Gorski grad (Gora)",
+    "url": ""
+  },
+  {
+    "long": 18.946399,
+    "lat": 45.448301,
+    "name": "Pretpostavljena lokacija pretpostavljene utvrde Somođ - Castrum Sumug 1286.",
+    "url": ""
+  },
+  {
+    "long": 17.020255,
+    "lat": 43.293524,
+    "name": "Tvrđava Makarska",
+    "url": ""
+  },
+  {
+    "long": 18.72028,
+    "lat": 45.358758,
+    "name": "Markušica - Gradina (Oppidum)",
+    "url": ""
+  },
+  {
+    "long": 18.553952,
+    "lat": 45.503529,
+    "name": "Utvrda Kendchapa, obitelji Korogy",
+    "url": ""
+  },
+  {
+    "long": 16.7103,
+    "lat": 45.361656,
+    "name": "Drvena utvrda u Lonji",
+    "url": ""
+  },
+  {
+    "long": 16.566874,
+    "lat": 45.633413,
+    "name": "Pretpostavljena lokacija utvrde Nova Cucia",
+    "url": ""
+  },
+  {
+    "long": 16.491715,
+    "lat": 45.763054,
+    "name": "Utvrđeni samostan sv. Mihaela Arkanđela u Marči",
+    "url": ""
+  },
+  {
+    "long": 16.787142,
+    "lat": 45.837571,
+    "name": "Utvrda Svibovec u Narti",
+    "url": ""
+  },
+  {
+    "long": 16.952729,
+    "lat": 45.79924,
+    "name": "Utvrda - Nova Rača",
+    "url": ""
+  },
+  {
+    "long": 15.3010444,
+    "lat": 45.4181139,
+    "name": "Stari grad Stelnik",
+    "url": ""
+  },
+  {
+    "long": 18.35035,
+    "lat": 45.620115,
+    "name": "Utvrda kod Zelčina",
+    "url": ""
+  },
+  {
+    "long": 18.297178,
+    "lat": 45.602995,
+    "name": "Gradina kod Harkanovaca",
+    "url": ""
+  },
+  {
+    "long": 16.1235,
+    "lat": 45.1176,
+    "name": "Grad kod Gornjeg Žirovca",
+    "url": ""
+  },
+  {
+    "long": 16.190089,
+    "lat": 45.047078,
+    "name": "Utvrda Jamnica",
+    "url": ""
+  },
+  {
+    "long": 16.462061,
+    "lat": 45.316105,
+    "name": "Utvrda Svinica",
+    "url": ""
+  },
+  {
+    "long": 16.433608,
+    "lat": 45.327057,
+    "name": "Utvrda Graduša",
+    "url": ""
+  },
+  {
+    "long": 15.674588,
+    "lat": 44.843079,
+    "name": "Utvrda Prijeboj",
+    "url": ""
+  },
+  {
+    "long": 17.332972,
+    "lat": 45.152403,
+    "name": "Utvrda Mačkovac",
+    "url": ""
+  },
+  {
+    "long": 17.386181,
+    "lat": 45.139129,
+    "name": "Utvrda Dolina",
+    "url": ""
+  },
+  {
+    "long": 17.753365,
+    "lat": 45.170296,
+    "name": "Utvrda Orahovec",
+    "url": ""
+  },
+  {
+    "long": 17.707682,
+    "lat": 45.120019,
+    "name": "Crkva Majke Božje Kloštarske u Slavonskom Kobašu",
+    "url": ""
+  },
+  {
+    "long": 19.074119,
+    "lat": 45.063268,
+    "name": "Utvrda Dragovac",
+    "url": ""
+  },
+  {
+    "long": 19.073951,
+    "lat": 45.111396,
+    "name": "Tvrđava u blizini Podgrađa na Bosutu",
+    "url": ""
+  },
+  {
+    "long": 18.925011,
+    "lat": 45.345326,
+    "name": "Castellum Mikola u Bogdanovcima",
+    "url": ""
+  },
+  {
+    "long": 18.829962,
+    "lat": 45.346875,
+    "name": "Utvrda u okolici Ostrova",
+    "url": ""
+  },
+  {
+    "long": 18.611533,
+    "lat": 45.213608,
+    "name": "Utvrda u Prkovcima",
+    "url": ""
+  },
+  {
+    "long": 17.545933,
+    "lat": 45.442579,
+    "name": "Stari grad Klisa ili Orjava (Orljava)",
+    "url": ""
+  },
+  {
+    "long": 18.519576,
+    "lat": 45.44369,
+    "name": "Srednjovjekovni Kišujlak odnosno ''Mali Ilok''",
+    "url": ""
+  },
+  {
+    "long": 18.019439,
+    "lat": 45.496067,
+    "name": "Castrum Mathucsyna",
+    "url": ""
+  },
+  {
+    "long": 18.727988,
+    "lat": 45.815254,
+    "name": "Castellum Bodolya (pretpostavljena lokacija)",
+    "url": ""
+  },
+  {
+    "long": 16.1245608,
+    "lat": 45.6982069,
+    "name": "Stari grad Čičan",
+    "url": ""
+  },
+  {
+    "long": 17.522276,
+    "lat": 45.280257,
+    "name": "Stari grad Tisovac",
+    "url": ""
+  },
+  {
+    "long": 16.6847134,
+    "lat": 46.3783793,
+    "name": "Utvrda Goričan",
+    "url": ""
+  },
+  {
+    "long": 16.615196,
+    "lat": 46.336858,
+    "name": "Ostaci gotičke kule u Prelogu",
+    "url": ""
+  },
+  {
+    "long": 16.336272,
+    "lat": 46.52387,
+    "name": "Kaštel u Lapšini",
+    "url": ""
+  },
+  {
+    "long": 16.547342,
+    "lat": 46.466559,
+    "name": "Utvrda Podturen",
+    "url": ""
+  },
+  {
+    "long": 16.566767,
+    "lat": 46.457148,
+    "name": "Utvrda Novakovec",
+    "url": ""
+  },
+  {
+    "long": 17.133337,
+    "lat": 45.937303,
+    "name": "Bušpan Grad",
+    "url": ""
+  },
+  {
+    "long": 16.6184687,
+    "lat": 46.4224643,
+    "name": "Gradište/mota u Turčišću",
+    "url": ""
+  },
+  {
+    "long": 18.632242,
+    "lat": 45.329304,
+    "name": "Gradina Kod Mrzovića",
+    "url": ""
+  },
+  {
+    "long": 18.676943,
+    "lat": 45.115632,
+    "name": "Gradina na Bosutu kog Gradišta",
+    "url": ""
+  },
+  {
+    "long": 16.298431,
+    "lat": 46.0337621,
+    "name": "Crkva Sveta Marija Magdalena",
+    "url": ""
+  },
+  {
+    "long": 15.7647358,
+    "lat": 45.8622906,
+    "name": "Crkva svetog Vida",
+    "url": ""
+  },
+  {
+    "long": 16.1834621,
+    "lat": 46.1169856,
+    "name": "Crkva Sveti Križ",
+    "url": ""
+  },
+  {
+    "long": 16.0084105,
+    "lat": 46.2941547,
+    "name": "Crkva Pohođenja Blažene Djevice Marije",
+    "url": ""
+  },
+  {
+    "long": 16.1015877,
+    "lat": 46.3000571,
+    "name": "Crkva Sveti Toma",
+    "url": ""
+  },
+  {
+    "long": 15.7597911,
+    "lat": 46.1599153,
+    "name": "Kaštel Gorica",
+    "url": ""
+  },
+  {
+    "long": 16.0133465,
+    "lat": 45.9737034,
+    "name": "Crkva Sveti Juraj, Gornja Stubica",
+    "url": ""
+  },
+  {
+    "long": 16.375219,
+    "lat": 46.2492974,
+    "name": "Kaštel Gornji Kneginec",
+    "url": ""
+  },
+  {
+    "long": 15.392134,
+    "lat": 45.407734,
+    "name": "Utvrda Lipa",
+    "url": ""
+  },
+  {
+    "long": 16.423913,
+    "lat": 45.134477,
+    "name": "Golubovac Divuški",
+    "url": ""
+  },
+  {
+    "long": 16.147851,
+    "lat": 45.273359,
+    "name": "Stara utvrda u blizini Svračice",
+    "url": ""
+  },
+  {
+    "long": 14.477472,
+    "lat": 45.369792,
+    "name": "Utvrda Mayer",
+    "url": ""
+  },
+  {
+    "long": 16.1105252,
+    "lat": 45.8276081,
+    "name": "Castellum Venerabili Capituli",
+    "url": ""
+  },
+  {
+    "long": 16.8096394,
+    "lat": 46.125828,
+    "name": "Starigrad – Kamengrad",
+    "url": ""
+  },
+  {
+    "long": 14.7466666666667,
+    "lat": 44.8213888888889,
+    "name": "Bizantska utvrda na otočiću Hr. Lukovac",
+    "url": ""
+  },
+  {
+    "long": 16.67096,
+    "lat": 43.16821,
+    "name": "Kula Maslinovik",
+    "url": ""
+  },
+  {
+    "long": 17.90713,
+    "lat": 42.7184,
+    "name": "Samostan Pakljena s kulom i zidinama",
+    "url": ""
+  },
+  {
+    "long": 17.1893314,
+    "lat": 43.1256588,
+    "name": "Tvrđava Fortica - Mletačka utvrda",
+    "url": ""
+  },
+  {
+    "long": 16.59576,
+    "lat": 43.18303,
+    "name": "Tvrdalj",
+    "url": ""
+  },
+  {
+    "long": 16.67674,
+    "lat": 43.18665,
+    "name": "Kula Kaštilac",
+    "url": ""
+  },
+  {
+    "long": 17.33751,
+    "lat": 45.62549,
+    "name": "Stari grad Stupčanica",
+    "url": ""
+  },
+  {
+    "long": 14.5643897,
+    "lat": 45.2756637,
+    "name": "Kaštel \"Nova Kraljevica",
+    "url": ""
+  },
+  {
+    "long": 14.8904288,
+    "lat": 44.7208797,
+    "name": "Murula",
+    "url": ""
+  },
+  {
+    "long": 15.729306,
+    "lat": 43.830361,
+    "name": "Utvrda Dazlin",
+    "url": ""
+  },
+  {
+    "long": 16.282378,
+    "lat": 46.163622,
+    "name": "Utvrda Mlaka kod Madžareva",
+    "url": ""
+  },
+  {
+    "long": 15.9637088,
+    "lat": 45.6477934,
+    "name": "Stari grad Peršin",
+    "url": ""
+  },
+  {
+    "long": 14.9023747,
+    "lat": 44.990268,
+    "name": "Stari grad Senj (okružen zidinama i kulama)",
+    "url": ""
+  },
+  {
+    "long": 16.736315,
+    "lat": 43.672358,
+    "name": "Gradina",
+    "url": ""
+  },
+  {
+    "long": 16.636101,
+    "lat": 43.701624,
+    "name": "Kamičak (utvrda, Sinj)",
+    "url": ""
+  },
+  {
+    "long": 16.551848,
+    "lat": 43.840724,
+    "name": "Stari grad",
+    "url": ""
+  },
+  {
+    "long": 19.173832,
+    "lat": 45.263613,
+    "name": "Šanac u Opatovcu na Dunavu",
+    "url": ""
+  },
+  {
+    "long": 16.2448622848079,
+    "lat": 43.397932986888,
+    "name": "Prapovijesna gradina zapadno od Donjeg Sela (Gradina)",
+    "url": ""
+  },
+  {
+    "long": 16.2938130160153,
+    "lat": 43.4015325484857,
+    "name": "Prapovijesna gradina kod mjesta Rogač (Glavica)",
+    "url": ""
+  },
+  {
+    "long": 16.3096570323534,
+    "lat": 43.3597324429591,
+    "name": "Gradac, uvala Senjska",
+    "url": ""
+  },
+  {
+    "long": 14.7683995,
+    "lat": 45.138028,
+    "name": "Gradina Panos",
+    "url": ""
+  },
+  {
+    "long": 15.858032,
+    "lat": 43.810951,
+    "name": "Kaštel Raslina",
+    "url": ""
+  },
+  {
+    "long": 15.9291,
+    "lat": 43.8215,
+    "name": "Turska utvrda iznad Skradina",
+    "url": ""
+  },
+  {
+    "long": 15.9985,
+    "lat": 43.8048,
+    "name": "Kula Goriš",
+    "url": ""
+  },
+  {
+    "long": 16.051361,
+    "lat": 43.788399,
+    "name": "Kula turskog age Terzibalića u Radoniću",
+    "url": ""
+  }
 ]
