@@ -1,9 +1,27 @@
 <script>
+	import { get } from 'svelte/store';
+	import { currentPageStore } from '$lib/store/PaginationStore';
+	import Pagination from '$lib/components/Pagination.svelte';
+
 	/** @type {import('./$types').PageData} */
 	export let data;
+
+	let currentPage = get(currentPageStore);
+
+	currentPageStore.subscribe(newPage => currentPage = newPage);
+
+	let pageSize = 20;
+	let pageStep = 1;
+
+	$: console.log(data.castles.slice((currentPage - 1) * pageSize, pageSize));
 </script>
 
 <div class="overflow-x-auto">
+	<Pagination 
+		dataCount={data.castles.length}
+		pageSize={pageSize} 
+		pageStep={pageStep}
+	/>
 	<table class="table w-full">
 		<!-- head -->
 		<thead>
@@ -16,7 +34,7 @@
 			</tr>
 		</thead>
 		<tbody>
-			{#each data.castles as castle}
+			{#each data.castles.slice((currentPage - 1) * pageSize, currentPage * pageSize) as castle}
 				<tr>
 					<td />
 					<td>{castle.name}</td>
@@ -27,4 +45,9 @@
 			{/each}
 		</tbody>
 	</table>
+	<Pagination 
+		dataCount={data.castles.length}
+		pageSize={pageSize} 
+		pageStep={pageStep}
+	/>
 </div>

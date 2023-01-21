@@ -10,7 +10,7 @@ export default class Paginator {
         
         if (pageCount < pageStep * 2 + 6) {
             Paginator.addPages(1, pageCount + 1);
-		} else if (currentPage < pageStep * 2 + 1) {
+		} else if (currentPage < pageStep * 2 + 2) {
             Paginator.addPages(1, pageStep * 2 + 4);
             Paginator.pages.push(null);
 			Paginator.pages.push(pageCount);
