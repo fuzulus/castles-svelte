@@ -21,8 +21,8 @@
 
 <style>
     @import 'leaflet/dist/leaflet.css';
-    @import 'leaflet.markerCluster/dist/MarkerCluster.css';
-    @import 'leaflet.markerCluster/dist/MarkerCluster.Default.css';
+    @import 'leaflet.markercluster/dist/MarkerCluster.css';
+    @import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 
     #map {
         height: 100vh;
