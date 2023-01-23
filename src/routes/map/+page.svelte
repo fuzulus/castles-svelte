@@ -9,18 +9,20 @@
         
         const map = new Map.default('map', 44.8401746, 15.8942923, 7);
 
-        for (const castle of data.castles) {
-            map.addMarker(
+        map.addMarkerGroup(
+            data.castles.map((castle) => map.createMarker(
                 castle.name,
                 castle.lat,
                 castle.long,
-            );
-        }
+            ))
+        );
     });
 </script>
 
 <style>
     @import 'leaflet/dist/leaflet.css';
+    @import 'leaflet.markerCluster/dist/MarkerCluster.css';
+    @import 'leaflet.markerCluster/dist/MarkerCluster.Default.css';
 
     #map {
         height: 100vh;

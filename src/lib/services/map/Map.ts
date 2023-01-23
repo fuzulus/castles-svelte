@@ -1,4 +1,5 @@
 import L from 'leaflet';
+import 'leaflet.markercluster';
 
 export default class Map {
     private map: L.Map;
@@ -17,14 +18,25 @@ export default class Map {
         }).addTo(this.map);
     }
 
-    public addMarker(
+    public createMarker(
         title: string,
         lat: number,
         long: number,
-    ): void {
-        L
+    ): L.Marker {
+        return L
             .marker([lat, long])
-            .bindPopup(title)
-            .addTo(this.map);
+            .bindPopup(title);
+    }
+
+    public addMarkerGroup(
+        markers: L.Marker[],
+    ): void {
+        const markerGroup = L.markerClusterGroup();
+
+        for (const marker of markers) {
+            markerGroup.addLayer(marker);
+        }
+
+        this.map.addLayer(markerGroup);
     }
 }
